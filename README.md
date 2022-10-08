@@ -28,7 +28,7 @@ __Folder Structure__
         └── reports        <- Generated analysis as HTML, PDF, LaTeX, etc.
 --------
 
-![alt text](https://filedn.eu/lu1t3j1O4jhb2VEbKfuz9fX/img/dominant_tree_species_large.png "Logo Title Text 1")
+![alt text](https://filedn.eu/lu1t3j1O4jhb2VEbKfuz9fX/img/dominant_tree_species_large.png)
 
 
 <a href="https://filedn.eu/lu1t3j1O4jhb2VEbKfuz9fX/img/dominant_tree_species_large.png">dominant_tree_species_large.png</a>
