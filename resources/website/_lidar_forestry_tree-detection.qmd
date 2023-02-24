@@ -1,0 +1,15 @@
+
+### Individual Tree Detection
+
+Possibility to generate a tree mask. 
+In Switzerland single tree are delineated and used to create a forest mask in alpine elevations.
+
+
+{{< video https://vimeo.com/328002264 >}}
+
+![](https://media.licdn.com/dms/image/C5612AQGwmpZsYFPCVw/article-cover_image-shrink_600_2000/0/1568188881653?e=2147483647&v=beta&t=tEf-OAn5sxhVsdlU8gOKN8BbjBKqrWAgq-7DqvxxCOk)
+
+
+https://www.wur.nl/en/show/Counting-trees-in-Dutch-forests-Using-AHN-LiDAR-data-for-National-Forest-Inventory-1.htm
+
+[@brodicRefinementIndividualTree2022; @eysnBenchmarkLidarBasedSingle2015; @sparksCrossComparisonIndividualTree2022; @sterenczakMappingIndividualTrees2020; @holmgrenTreeCrownSegmentation2022]

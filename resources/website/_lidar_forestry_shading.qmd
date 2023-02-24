@@ -1,0 +1,6 @@
+
+### Shading conditions
+
+With precise forest structure and height information from lidar data it is possible to calculate sun exposure times and solar radiation. 
+
+[@vincentMultisensorAirborneLidar2023]

@@ -1,0 +1,12 @@
+
+### Forest Stand Inventory
+
+Integration of Photo Interpreted and LIDAR Attributes Into a Polygonal Forest Inventory Framework (https://bermane.github.io/ontario-inventory/)
+
+"map Site Index over large areas of forest automatically, depicting forest productivity at a much finer spatial resolution than what is common in operational inventories." [@noordermeerPredictingMappingSite2020]
+
+"the degree of transferability depends more on the attribute being modelled or the modeling approach applied, and less on the characteristics of the point cloud data." [@tompalskiDemonstratingTransferabilityForest2019]
+
+"dense Laser scanning-based inventory provided more accurate stand estimates than field-based demonstrations" [@perssonTwophaseForestInventory2022]
+
+[@goodbodySgsRStructurallyGuided2023; @queinnecDevelopingForestInventory2022; @coopsFrameworkRealtimeForest2023; @vanleeuwenAssessmentStandingWood2011]

@@ -1,0 +1,16 @@
+
+### Forest structure
+
+Ecosystem structure, especially vertical vegetation structure, is one of the six essential biodiversity variable classes and is an important aspect of habitat heterogeneity, affecting species distributions and diversity by providing shelter, foraging, and nesting sites. Point clouds from airborne laser scanning (ALS) can be used to derive such detailed information on vegetation structure.
+
+![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
+
+[@jarronDetectionSubcanopyForest2020; @moudryVegetationStructureDerived2023; @nowakHiddenGapsCanopy2022; @rochaCrownLevelStructureFuel2023; @linesShapeTreesReimagining2022]
+
+#### Forest canopy gaps
+
+[@dalagnolLargescaleVariationsDynamics2021]
+
+ForestGapR R-package (https://github.com/carlos-alberto-silva/ForestGapR)
+
+![](https://raw.githubusercontent.com/carlos-alberto-silva/ForestGapR/master/readme/fig_4.png)

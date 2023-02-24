@@ -1,0 +1,21 @@
+
+### Comparison to photogrammetry
+
+Point clouds or height information in general can also be calculated from from overlapping optical images. Image-based point clouds, also known as photogrammetry point clouds, are created by using multiple images of a scene taken from different perspectives and using software to triangulate the position of objects or surfaces in the scene. This process is known as Structure from Motion (SfM).
+
+There are several key differences between image-based point clouds and lidar-derived point clouds:
+
+- Resolution: Lidar-derived point clouds typically have a higher resolution than image-based point clouds, especially in the z-axis (vertical direction). This is because lidar sensors are able to measure the distance to multiple objects if there are tiny gaps (e.g. in the canopy). Image-based point clouds usually only cover the upper-most layer since points in the lower layers typically cannot be senn and matched in multiple images. 
+- Color: Image-based point clouds typically have color information associated with them, while lidar-derived point clouds do not. However, the color information can be added to the lidar point clouds by overlapping them with RGB imagery in postprocessing.
+- Light condition: Lidar sensors are able to capture data in a wider range of lighting conditions than cameras, including in low light or complete darkness, while orthoimagery very much depends on the illumination conditions (sun, clouds, shadows, haze,...).
+- Surface detection: Lidar sensors are able to detect surfaces that are difficult to see with cameras, such as surfaces that are very dark, very reflective, or very transparent.
+
+Both techniques have their own advantages and disadvantages, and are often used together in applications such as mapping, surveying, and 3D modeling. Lidar data can be used to provide a highly accurate and detailed representation of the environment, while image-based data can provide information on the color and texture of surfaces. 
+
+"The coupling of DAP with ALS technologies will likely have the greatest impact on forest inventory practices in the next decade"[@whiteRemoteSensingTechnologies2016]
+
+![](https://pub.mdpi-res.com/forests/forests-04-00518/article_deploy/html/images/forests-04-00518-ag.png?1580953800)
+
+
+
+[@goodbodyDigitalAerialPhotogrammetry2019; @noordermeerComparingAccuraciesForest2019; @rodriguez-vivancosAnalysisStructureMotion2022; @strunkLargeAreaForest2019; @tompalskiQuantifyingPrecisionForest2021; @whiteUtilityImageBasedPoint2013]

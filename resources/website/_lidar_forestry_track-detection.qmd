@@ -1,0 +1,15 @@
+
+### Forest track detection
+
+
+
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S1569843222002084-gr8_lrg.jpg)
+
+Resources:
+
+Project IntelliWay – Intelligente Wege – Condition Monitoring und Predictive Maintenance für Forstwege (https://kwf2020.kwf-online.de/portfolio/intelliway/)
+
+[@rousselCorrectionUpdateEnhancement2022]
+
+https://github.com/Jean-Romain/ALSroads

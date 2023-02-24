@@ -1,0 +1,19 @@
+
+### Coarse woody debris
+
+Deadwood is a meaningful contributor to forest carbon cycles, wildlife habitat, and biodiversity and can influence wildfire behavior. Studies have shown that it is possible to detect coarse woody debris (CWD) from ALS data. CWD is defined as dead woody biomass on the forest floor with a diameter greater than a given threshold.
+
+[@jarronDetectionQuantificationCoarse2021]
+
+Fallen tree mapping provides valuable information regarding the ecological value of boreal forests. Airborne laser scanning (ALS) enables mapping fallen trees on a large scale. [@heinaroEvaluatingFactorsImpacting2023]
+
+
+![](https://www.mdpi.com/remotesensing/remotesensing-15-00382/article_deploy/html/images/remotesensing-15-00382-g003-550.jpg)
+
+Airborne LiDAR can be used to detect CWD. LiDAR-based detection and mapping of CWD will be most useful for applications that focus on larger and longer pieces of CWD or applications focused on total CWD volume. [@joyceDetectionCoarseWoody2019]
+
+
+Moderate-density LiDAR data enables detecting ecologically most significant trunks [@heinaroAirborneLaserScanning2021]
+
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0378112721003133-ga1_lrg.jpg)

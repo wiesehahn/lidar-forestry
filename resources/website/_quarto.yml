@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: ../../docs
+
+website:
+  title: "Precision Forestry"
+  search: false
+  navbar:
+    title: Precision Forestry
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Lidar"
+        href: 01_lidar_about.qmd
+      - text: "Status"
+        href: 02_lidar_status.qmd
+      - text: "in Forestry"
+        href: 03_lidar_forestry.qmd
+      - text: "Intention"
+        href: 04_lidar_intention.qmd
+
+    right:
+      - icon: github
+        href: https://github.com/wiesehahn/precision-forestry
+
+
+  page-footer:
+    border: false
+    left: "Copyright 2023, Jens Wiesehahn"
+    right:
+      - icon: github
+        href: https://github.com/wiesehahn
+      - icon: twitter
+        href: https://twitter.com/JensWiesehahn
+      - icon: mastodon
+        href: https://fosstodon.org/@JensWiesehahn
+
+
+format:
+  html:
+    theme: litera
+    css: style.css
+    smooth-scroll: true
+    highlight: kate
+    toc: true
+
+editor: visual
+
+execute:
+  echo: false
+  freeze: true
+
+bibliography: ../references.bib

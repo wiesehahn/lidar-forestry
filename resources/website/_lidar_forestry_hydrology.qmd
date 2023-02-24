@@ -1,0 +1,15 @@
+
+### Hydrology
+
+Hydrological analysis is the study of the movement, distribution, and quality of water on Earth. It involves the examination of various hydrological processes such as precipitation, evaporation, infiltration, and runoff, as well as the analysis of water resources such as rivers, lakes, and groundwater. The goal of hydrological analysis is to understand the water cycle and how it is affected by natural and human-induced changes, such as climate change and land use changes. This knowledge is essential for managing and protecting water resources, mitigating flood and drought risks, and planning for future water needs.
+
+Hydrological analysis of forests involves the study of how forests affect the movement, distribution, and quality of water. Forests play a critical role in the water cycle as they can affect precipitation, evaporation, infiltration, and runoff. They also influence the water resources such as rivers, lakes, and groundwater. The goal of hydrological analysis of forests is to understand how forests impact the water cycle, how they are affected by natural and human-induced changes, such as climate change and land-use changes and how they can be managed to protect and conserve water resources. Understanding the hydrological role of forests can provide important information for managing and protecting water resources, mitigating flood and drought risks, and planning for future water needs.
+
+![](https://www.whiteboxgeo.com/manual/wbt_book/img/StochasticDepressionAnalysis_fig1.png)
+
+![](https://media.githubusercontent.com/media/baharmon/baharmon.github.io/master/images/governors-island/discharge.gif)
+
+
+Mapping Drainage Ditches in Forested Landscapes Using Deep Learning and Aerial Laser Scanning (https://doi.org/10.1061/JIDEDH.IRENG-9796)
+
+[@agrenUseMultipleLIDARderived2021; @hoffmannTrafficabilityPredictionUsing2022; @kopeckyTopographicWetnessIndex2021]

@@ -1,0 +1,40 @@
+
+## About Lidar data
+Lidar, or Light Detection and Ranging, is a remote sensing technology that uses laser pulses to measure the distance to an object or surface. The data collected by lidar systems is typically in the form of point clouds, which are a set of 3D coordinates representing the location of objects or surfaces in the environment. Lidar data can be used for a variety of applications, including mapping, surveying, navigation, and object detection. One of the key advantages of lidar is its ability to penetrate through obscurants such as fog, smoke and vegetation.
+
+
+### Types of Lidar platforms
+
+#### Terrestrial laser scanning (TLS)
+This type of lidar is mounted on a tripod or other stationary platform, and is used to collect data from a specific location. It is commonly used in architectural and engineering applications. While the other systems are kinematic, TLS is a static system.
+
+#### Mobile laser scanning (MLS)
+This type of lidar is mounted on vehicles and is used to collect data while in motion. It is commonly used for mapping roads, bridges, and other transportation infrastructure.
+
+#### Unmanned aerial vehicle laser scanning (ULS)
+This type of lidar is mounted on unmanned aerial vehicles (UAV) and is used to collect data from above (low elevation) for small to medium areas.
+
+#### Airborne laser scanning (ALS)
+This type of lidar is mounted on aircraft and is used to collect data from large areas, such as entire cities or large forests. It is commonly used for mapping, land-use planning, and environmental monitoring.
+
+![](https://natural-resources.canada.ca/sites/nrcan/files/Geoscience/acquisition-lidar-avion.png)
+
+
+![](http://k1z.blog.uni-heidelberg.de/files/2021/07/tree_pc_comparison.png)
+
+
+### Types of Lidar sensors
+
+#### Full Waveform Lidar / Linear-Mode Lidar
+Full waveform lidar records the entire laser pulse as it reflects off a surface and returns to the sensor. This allows for more detailed measurements and analysis of the returned signal, such as the shape, width and amplitude of the returned pulse. This kind of Lidar is able to detect the presence of multiple surfaces and objects within the pulse's path and can also provide information about the reflectivity, density and other properties of the target surfaces. It is commonly used in applications such as vegetation mapping, forest canopy height and high resolution mapping.
+
+#### Geiger-Mode Lidar
+Geiger-mode lidar systems use an array of avalanche photodiodes (APDs) to detect the incoming photons. Geiger-mode LIDAR provides only range information, not radiometric data, and is less accurate compared to full-waveform LIDAR. The technique has advantages in situations where rapid terrain acquisition from high altitude is required.
+
+#### Single Photon Lidar
+Single photon lidar, on the other hand, uses a single photon detector to detect the laser pulse as it reflects off a surface. It typically only records the time of flight of the laser pulse, and therefore doesn't provide as much information about the returned signal as full waveform lidar. However, it has the advantage of being able to detect very weak signals, and is therefore useful for applications such as detecting very low reflectivity surfaces, such as oil slicks on water or certain types of minerals. This technology is also more lightweight, compact and energy efficient than full waveform lidar.
+
+![](https://d3i71xaburhd42.cloudfront.net/44269dd30a6c813e78174c421c97157f486a8c52/2-Figure1-1.png)
+
+
+{{< include _lidar_about_photogrammetry_comparison.qmd >}}

@@ -1,0 +1,18 @@
+
+### Tree Growth
+
+Using repeat airborne LiDAR to map the growth of individual trees and forest stands
+
+Resources:
+[@beeseUsingRepeatAirborne2022; @maltamoEstimationPeriodicAnnual2022; @riofrioHarmonizingMultitemporalAirborne2022; @soininenPredictingGrowthIndividual2022; @tompalskiEstimatingChangesForest2021; @yrttimaaCapturingSeasonalRadial2023]
+
+Measuring the growth of individual trees using multi-temporal airborne laser scanning point clouds (https://www.isprs.org/proceedings/xxxvi/3-w19/papers/204.pdf)
+
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig1_HTML.png?as=webp)
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig2_HTML.png?as=webp)
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig4_HTML.png?as=webp)
+
+
+

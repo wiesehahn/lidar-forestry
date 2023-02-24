@@ -1,0 +1,5 @@
+
+### Near Real-Time Forest Monitoring
+
+[@coopsFrameworkRealtimeForest2023; @zweifelNetworkingForestInfrastructure2023]
+
