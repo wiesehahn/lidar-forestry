@@ -21,10 +21,10 @@ __Folder Structure__
     │
     ├── resources          <- Figures, literature, manuals, and all other explanatory materials.
     │   ├── documents      <- External documents such as project outlines. 
-    │   └── figures        <- External figures used in reports such as logos.
+    │   ├── figures        <- External figures used in reports such as logos. 
+    │   └── website        <- files to build website with quarto
     │
     └── results            <- Results as part of this project.
         ├── figures        <- Generated graphics and figures to be used in reporting 
         └── reports        <- Generated analysis as HTML, PDF, LaTeX, etc.
 --------
-
