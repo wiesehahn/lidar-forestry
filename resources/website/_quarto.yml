@@ -44,6 +44,8 @@ format:
     highlight: kate
     toc: true
 
+tbl-cap-location: top
+
 editor: visual
 
 execute:

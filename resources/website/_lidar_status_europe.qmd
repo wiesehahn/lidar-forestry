@@ -1,8 +1,9 @@
 
 ### Status of ALS data in Europe
 
-[@moudryVegetationStructureDerived2023]
-
+As of 2021 a total of 18 from 32 countries (EU27, Norway, Switzerland, UK, Serbia) are fully covered by LiDAR data. 
+ 
+Most European countries provide ALS data free of charge, an overview can be seen as a table in a recent publication by @moudryVegetationStructureDerived2023. Another more detailed but also slightly older overview about lidar data availability in Europe was produced by the JRC [@europeancommission.jointresearchcentre.NoncommercialLightDetection2021].
 
 ##### Belgium:
 https://remotesensing.vlaanderen.be/apps/openlidar/#collapseDataDownload

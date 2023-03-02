@@ -1,4 +1,8 @@
 
 ### Biomass estimation
 
-[@johnsonFineresolutionLandscapescaleBiomass2022; @nord-larsenEstimationForestResources2012]
+Laser scanning reveals potential underestimation of biomass carbon in temperate forest [@caldersLaserScanningReveals2022].
+
+"practical solutions to challenges faced in using spatiotemporal patchworks of LiDAR to meet growing needs for AGB prediction and mapping in support of broad-scale applications in forest carbon accounting and ecosystem stewardship" [@johnsonFineresolutionLandscapescaleBiomass2022]
+
+"national forest inventory (NFI) data was used as reference data for modeling forest basal area, volume, above-ground biomass, and total biomass from laser scanning data obtained in a countrywide scanning survey." [@nord-larsenEstimationForestResources2012]

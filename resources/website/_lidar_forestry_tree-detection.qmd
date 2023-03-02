@@ -1,15 +1,16 @@
 
 ### Individual Tree Detection
 
-Possibility to generate a tree mask. 
-In Switzerland single tree are delineated and used to create a forest mask in alpine elevations.
+"assessed seven ITD methods, representing three common approaches (point-cloud-based, raster-based, hybrid), across coniferous forest stands with diverse structure and composition to understand how ITD and height measurement accuracy vary with method, input parameters and data, and stand density." [@sparksCrossComparisonIndividualTree2022]
 
+"aimed to develop a tool for individual tree detection (ITD) utilising a self-calibrating algorithm procedure and to verify its accuracy using the complicated forest structure of near natural forests in the temperate zone." [@sterenczakMappingIndividualTrees2020]
 
-{{< video https://vimeo.com/328002264 >}}
+"This article describes algorithms to extract tree crowns using two-dimensional (2D) and three-dimensional (3D) segmentation. For all combinations of algorithms and data resolutions, undetected trees accounted for, on average, 0–5% of the total stem volume in the field plots." [@holmgrenTreeCrownSegmentation2022]
 
-![](https://media.licdn.com/dms/image/C5612AQGwmpZsYFPCVw/article-cover_image-shrink_600_2000/0/1568188881653?e=2147483647&v=beta&t=tEf-OAn5sxhVsdlU8gOKN8BbjBKqrWAgq-7DqvxxCOk)
+"Numerous semi- and fully-automatic algorithms have been developed for individual tree detection from airborne laser-scanning data" [@brodicRefinementIndividualTree2022] 
 
+::: {#fig-itd}
+![](https://www.wur.nl/upload_mm/7/b/4/40eea042-6806-4bd0-956d-b3650e1139f1_Thesis_Thijs_Koop_61d3acb1_750x400.png)
 
-https://www.wur.nl/en/show/Counting-trees-in-Dutch-forests-Using-AHN-LiDAR-data-for-National-Forest-Inventory-1.htm
-
-[@brodicRefinementIndividualTree2022; @eysnBenchmarkLidarBasedSingle2015; @sparksCrossComparisonIndividualTree2022; @sterenczakMappingIndividualTrees2020; @holmgrenTreeCrownSegmentation2022]
+Example of individual tree detection from ALS data (from [www.wur.nl](https://www.wur.nl/en/show/Counting-trees-in-Dutch-forests-Using-AHN-LiDAR-data-for-National-Forest-Inventory-1.html))
+:::

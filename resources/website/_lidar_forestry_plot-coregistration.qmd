@@ -1,8 +1,12 @@
 
 ### Co-registration of forest plots
 
-> Determining the exact position of a forest inventory plot—and hence the position of the sampled trees—is often hampered by a poor Global Navigation Satellite System (GNSS) signal quality beneath the forest canopy. Inaccurate geo-references hamper the performance of models that aim to retrieve useful information from spatially high remote sensing data (e.g., species classification or timber volume estimation). This restriction is even more severe on the level of individual trees. The objective of this study was to develop a post-processing strategy to improve the positional accuracy of GNSS-measured sample-plot centers and to develop a method to automatically match trees within a terrestrial sample plot to aerial detected trees.
+"develop a post-processing strategy to improve the positional accuracy of GNSS-measured sample-plot centers and to develop a method to automatically match trees within a terrestrial sample plot to aerial detected trees." [@lamprechtMachineLearningMethod2017]
 
+
+
+::: {#fig-co-registration}
 ![](https://pub.mdpi-res.com/remotesensing/remotesensing-09-00505/article_deploy/html/images/remotesensing-09-00505-ag-550.jpg?1569355984)
 
-[@lamprechtMachineLearningMethod2017]
+Graphical abstract to co-register forest inventory plots using ALS data (from @lamprechtMachineLearningMethod2017)
+:::

@@ -1,4 +1,8 @@
 
 ### Tree species mapping
 
-[@kaminskaSpeciesrelatedSingleDead2018; @krzystekLargeScaleMappingTree2020; @prieurComparisonThreeAirborne2021; @trierTreeSpeciesClassification2018]
+"mapping of tree species—subdivided into conifers and broadleaf trees" [@krzystekLargeScaleMappingTree2020]
+
+"This paper compares the same method of tree species identification (at the individual crown level) across three different types of airborne laser scanning systems (ALS): two linear lidar systems (monospectral and multispectral) and one single-photon lidar (SPL) system. The additional intensity features that are provided by multispectral ALS appear to be more beneficial to overall accuracy than the higher point density of SPL." [@prieurComparisonThreeAirborne2021]
+
+"laser scanning data was used to mask pixels with low or no vegetation" [@trierTreeSpeciesClassification2018]

@@ -1,0 +1,13 @@
+
+### Forest Sampling Inventory (Management Inventory)
+
+"The increased availability of wall-to-wall ALS data is promoting the concept of structurally guided sampling (SGS), where ALS metrics are used as an auxiliary data source driving stratification and sampling within management-level forest inventories." [@goodbodySgsRStructurallyGuided2023]
+
+"study demonstrates the utility of the SPL100 for the complete development of a forest inventory over large forest areas, from ground plot establishment through to the production of forest attribute estimates." [@queinnecDevelopingForestInventory2022]
+
+::: {#fig-sample-inventory}
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/forestry/PAP/10.1093_forestry_cpac055/2/cpac055f1.jpeg?Expires=1680773410&Signature=eooT40KvK7YQHxiD39baxL5Jw8gFqmikygo62p8ODpHcnsUjr1eh~fxVsnyIlf2t4yWIuk14EjwjgZCewwEXJi0ZzW~Ilvq1kQirmIUxQDxzEUPW5tVppWNb4CKt7H54dDyd4ccs6kkQ2K55Knb1GPyuwoZt0VzMNDDHLUaxMhOMwQQo-XX3~7gGn3nqG1UmPnTX42xn76a8PGRjarcvGflJUSL0FIPZ02fDm8hC3PiN4fzSwPGaHHUrvhMYQnnCiRT1dumjlfucK2saPGVlJ6Jnq9qoM~3uF9hGgfKFjsKBpB5offNjSjuGKFI-xO0GULW8NocU3nlOr8sHsoPLLg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+Graphical abstract of the processing workflow for structurally guided sampling (from @goodbodySgsRStructurallyGuided2023)
+:::
+

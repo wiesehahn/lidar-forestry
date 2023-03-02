@@ -3,4 +3,8 @@
 
 With precise forest structure and height information from lidar data it is possible to calculate sun exposure times and solar radiation. 
 
-[@vincentMultisensorAirborneLidar2023]
+"The basic assumption on which plant area density estimation is based is that light attenuation is proportional to vegetation area density." [@vincentMultisensorAirborneLidar2023]
+
+"LiDAR can be a suitable tool for modeling solar radiation at various levels and producing continuous information across large forested areas with complicated structure and species composition." [@olpendaEstimationSubcanopySolar2019]
+
+"light detection and ranging has, so far, been preferably used for modeling light under tree canopies. Laser system’s capability of generating 3D canopy structure at high spatial resolution makes it a reasonable choice as a source of spatial information about light condition in various parts of forest ecosystem." [@olpendaModelingSolarRadiation2018]

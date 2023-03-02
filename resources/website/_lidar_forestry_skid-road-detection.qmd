@@ -1,17 +1,14 @@
 
 ### Forest skid road detection
 
-> In order to protect the forest floor and to help with planning tasks, a detailed skid road network is being digitized in the canton of Aargau. With the help of the detailed skid road network recorded so far, an image recognition model was trained in order to automatically map the detailed skid road network over the rest of the canton. The model reliably recognized around 90 percent of the visible lanes. The data is used to create work orders or logging sketches and is made available to machinists in the on-board GPS.
-
-![](https://www.waldwissen.net/assets/_processed_/0/2/csm_wsl_rueckegassen_Fahrspurenmaske_4ddf84d764.webp)
-
-
-Resources:
-
-Bilderkennungssoftware für Feinerschliessungen im Wald (https://doi.org/10.3188/szf.2022.0196)
-
-Mit LiDAR auf der Suche nach Rückegassen im Wald (https://www.waldwissen.net/de/technik-und-planung/forsttechnik-und-holzernte/walderschliessung/mit-lidar-auf-der-suche-nach-rueckegassen-im-wald)
-
-LiDAR (ALS) im Wald Teil 1: Rückegassen sichtbar machen - OGF (https://drohnenbefliegungen.de/2022/07/08/lidar-als-im-wald-teil-1-rueckegassen-sichtbar-machen/)
+"In order to protect the forest floor and to help with planning tasks, a detailed skid road network is being digitized in the canton of Aargau. With the help of the detailed skid road network recorded so far, an image recognition model was trained in order to automatically map the detailed skid road network over the rest of the canton. The model reliably recognized around 90 percent of the visible lanes. The data is used to create work orders or logging sketches and is made available to machinists in the on-board GPS." [@bienzBilderkennungssoftwareFurFeinerschliessungen2022]
 
 https://github.com/RaffiBienz/skidroad_finder
+
+OGF offers the digitalization of skid road tracks from ULS as a service as part of forest stand inventories [@ogfdroneteamLiDARALSIm2022]
+
+::: {#fig-skid-road-detection}
+![](https://www.waldwissen.net/assets/_processed_/0/2/csm_wsl_rueckegassen_Fahrspurenmaske_4ddf84d764.webp)
+
+Ground relief map with vehicle tracks mask (from @bienzBilderkennungssoftwareFurFeinerschliessungen2022)
+:::

@@ -1,16 +1,31 @@
 
 ### Forest structure
 
-Ecosystem structure, especially vertical vegetation structure, is one of the six essential biodiversity variable classes and is an important aspect of habitat heterogeneity, affecting species distributions and diversity by providing shelter, foraging, and nesting sites. Point clouds from airborne laser scanning (ALS) can be used to derive such detailed information on vegetation structure.
+"Ecosystem structure, especially vertical vegetation structure, is one of the six essential biodiversity variable classes and is an important aspect of habitat heterogeneity, affecting species distributions and diversity by providing shelter, foraging, and nesting sites. Point clouds from airborne laser scanning (ALS) can be used to derive such detailed information on vegetation structure." [@moudryVegetationStructureDerived2023]
 
+"With the increasing density of ALS point clouds, new opportunities exist to describe sub-canopy structural components in forests that were previously difficult to detect using passive remote sensing technologies." [@jarronDetectionSubcanopyForest2020]
+
+"The porosity of tree belts is expressed by gap fraction under and inside the canopy." [@nowakHiddenGapsCanopy2022]
+
+"compare crown metrics derived from TLS, ALS, and a combination of both for describing the crown structure and fuel attributes" [@rochaCrownLevelStructureFuel2023]
+
+"Recent advances in remote sensing and data processing are revolutionising our ability to accurately measure tree and forest structure from leaves to landscapes." [@linesShapeTreesReimagining2022]
+
+::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 
-[@jarronDetectionSubcanopyForest2020; @moudryVegetationStructureDerived2023; @nowakHiddenGapsCanopy2022; @rochaCrownLevelStructureFuel2023; @linesShapeTreesReimagining2022]
+Variables to describe the vertical structure of the vegetation (from @moudryVegetationStructureDerived2023)
+:::
+
 
 #### Forest canopy gaps
 
-[@dalagnolLargescaleVariationsDynamics2021]
+"report large-scale estimates of Amazonian gap dynamics using a novel approach with large datasets of airborne light detection and ranging" [@dalagnolLargescaleVariationsDynamics2021]
 
-ForestGapR R-package (https://github.com/carlos-alberto-silva/ForestGapR)
-
+::: {#fig-canopy-gaps}
 ![](https://raw.githubusercontent.com/carlos-alberto-silva/ForestGapR/master/readme/fig_4.png)
+
+Forest Gap Change Detection (from https://github.com/carlos-alberto-silva/ForestGapR)
+:::
+
+ForestGapR: An r Package for forest gap analysis from canopy height models [@silvaForestGapRPackageForest2019]

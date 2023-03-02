@@ -1,9 +1,6 @@
 
 ## Lidar data in forestry
 
-![](https://pbs.twimg.com/media/Fj7iPnRWIAEkGVJ?format=jpg&name=medium)
-
-
 {{< include _lidar_forestry_geomorphology.qmd >}}
 
 {{< include _lidar_forestry_hydrology.qmd >}}
@@ -27,6 +24,8 @@
 {{< include _lidar_forestry_track-detection.qmd >}}
 
 {{< include _lidar_forestry_skid-road-detection.qmd >}}
+
+{{< include _lidar_forestry_sample-inventory.qmd >}}
 
 {{< include _lidar_forestry_plot-coregistration.qmd >}}
 

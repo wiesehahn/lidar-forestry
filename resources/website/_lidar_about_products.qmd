@@ -1,0 +1,22 @@
+
+### Products
+
+#### Point Cloud
+
+#### Digital Elevation Model (DEM)
+A Digital Elevation Model is a digital representation of the elevation of the Earth’s surface typically above mean sea level. There are two types of DEMs, Digital surface models and Digital Terrain models, briefly described below. 
+
+#### Digital Terrain Model (DTM)
+A Digital Terrain Model approximates the continuous terrain surface by a set of discrete points with unique height values. The DTM does not include features like buildings or trees.
+
+#### Digital Surface Model (DSM)
+A Digital Surface Model is created by the interpolation of individual points containing the elevation characteristics of natural or human-made elements such as trees, buildings etc.
+
+Canopy Height Model / nDSM
+
+::: {#fig-dsm-dtm}
+![](https://www.spiedigitallibrary.org/ContentImages/Journals/JARSC4/10/3/036013/FigureImages/JARS_10_3_036013_f003.png)
+
+Comparison of Digital Surface Model (DSM), Digital Terrain Model (DTM) and normalized Surface Model (nDSM)
+:::
+

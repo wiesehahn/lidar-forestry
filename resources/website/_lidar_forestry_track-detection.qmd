@@ -1,15 +1,14 @@
 
 ### Forest track detection
 
+Project IntelliWay – Intelligente Wege – Condition Monitoring and Predictive Maintenance for forest tracks (https://kwf2020.kwf-online.de/portfolio/intelliway/)
 
+"addresses the problem of the automatic updating, fixing, and enhancement of vectorial forestry road maps over large landscapes" [@rousselCorrectionUpdateEnhancement2022]
 
+ALSroads provides tools to relocate, measure and estimate the state of forestry roads from an inaccurate map. (https://github.com/Jean-Romain/ALSroads)
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S1569843222002084-gr8_lrg.jpg)
+::: {#fig-track-detection}
+![](https://ars.els-cdn.com/content/image/1-s2.0-S1569843222002084-gr6_lrg.jpg)
 
-Resources:
-
-Project IntelliWay – Intelligente Wege – Condition Monitoring und Predictive Maintenance für Forstwege (https://kwf2020.kwf-online.de/portfolio/intelliway/)
-
-[@rousselCorrectionUpdateEnhancement2022]
-
-https://github.com/Jean-Romain/ALSroads
+Slice of the point-cloud perpendicularly to the road centreline (from @rousselCorrectionUpdateEnhancement2022)
+:::

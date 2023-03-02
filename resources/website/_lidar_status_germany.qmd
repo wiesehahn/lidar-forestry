@@ -1,9 +1,7 @@
 
-### Status of Lidar data in Germany
+### Status of ALS data in Germany
 
-[@virtanenNationwidePointCloud2017]
-
-[Zwillinge groß gedacht](https://www.business-geomatics.com/2022/11/17/zwillinge-gross-gedacht/)
+Geodata collection, administration and publication in Germany is predominantly organized in federal structures by the land surveying and cadaster authorities of the 16 federal states. Although the Working Committee of the surveying authorities of the states of the Federal Republic of Germany (AdV) defines guidelines and standards there is still a variety of different data types in the realm of laser scanning data. Some of the attributes for available ALS data are listes in @tbl-als-federal.
 
 
 | Bundesland | Kosten von[^1] | Kosten bis[^2] | Daten von[^3] | Daten bis[^4] | nominelle Punktdichte[^5] | Datenformat | EPSG |
@@ -21,13 +19,20 @@
 | Rheinland-Pfalz | 25 | 100 | 2014 | 2022 | 4 | LAZ 1.2 | 25832 |
 | Saarland | 120 | 120 | 2016 | 2016 | 4 | LAS 1.2 | 25832 |
 | Sachsen | 0 | 0 | 2015 | 2022 | 4 | LAZ 1.2 | 25833 |
-| Sachsen-Anhalt | ? | 80 | 2015 | 2022 | ? | XYZ | 25832 |
+| Sachsen-Anhalt | ? | 80 | 2009 | 2022 | 3-5 | XYZ | 25832 |
 | Schleswig-Holstein | ? | ? | ? | ? | 3 | ? | 25832 |
 | Thüringen | 0 | 0 | 2017 | 2022 | 4 | LAZ 1.4 | 25832 |
 
+: Comparison of available ALS data in Germany by state {#tbl-als-federal}
 
 [^1]: € pro km² (mit Mengenrabatt)
 [^2]: € pro km² (ohne Mengenrabatt)
 [^3]: älteste Daten zur aktuellen landesweiten Abdeckung
 [^4]: jüngste Daten zur aktuellen landesweiten Abdeckung
 [^5]: angegebene Mindestanzahl Punkte pro m² (im Regelfall sind Pulses gemeint)
+
+
+According to @virtanenNationwidePointCloud2017 "topographic databases maintained by national mapping agencies are currently the most common nationwide data sets in geo-information", however this is not true for Germany. Until now there is no single data set which is available for entire Germany. However, there are plans to generate such data. The project "Digital Twin Germany" aims to acquire high density point cloud data for Germany. The project is run by the Federal Agency for Cartography and Geodesy (BKG), Germany's national mapping agency. Data acquisition starts in 2023 and the goal is to have a data set for entire Germany by 2024. It is also planned to have at least one repition some years later. 
+Until now there is only sparse information about details of the project, but most likely the data will be mapped by Geiger-Mode or Single Photon Sensor (Leica SPL100) in the vegegtation period [@hopfstockAufWegDigitalen2021]. It is not planned to make the data available as open source in general, although DTM and DSM mitght be public at 1 meter resolution. Point cloud data  might be accessible for research and national authorities. 
+
+[Zwillinge groß gedacht](https://www.business-geomatics.com/2022/11/17/zwillinge-gross-gedacht/)

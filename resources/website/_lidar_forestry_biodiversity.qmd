@@ -1,4 +1,4 @@
 
 ### Biodiversity
 
-[@fuhrDetectingOvermatureForests2022]
+"LiDAR technology has proved to be powerful when assessing forest structural parameters, and it may be a promising way to identify existing overmature forest patches over large areas. We first built an index combining several forest structural maturity attributes in order to characterize the structural maturity." [@fuhrDetectingOvermatureForests2022]

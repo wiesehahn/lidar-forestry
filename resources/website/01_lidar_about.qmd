@@ -17,10 +17,17 @@ This type of lidar is mounted on unmanned aerial vehicles (UAV) and is used to c
 #### Airborne laser scanning (ALS)
 This type of lidar is mounted on aircraft and is used to collect data from large areas, such as entire cities or large forests. It is commonly used for mapping, land-use planning, and environmental monitoring.
 
+::: {#fig-sensor-platforms-comparison}
 ![](https://natural-resources.canada.ca/sites/nrcan/files/Geoscience/acquisition-lidar-avion.png)
 
+ALS data acquisition
+:::
 
+::: {#fig-sensor-platforms-comparison}
 ![](http://k1z.blog.uni-heidelberg.de/files/2021/07/tree_pc_comparison.png)
+
+Comparison of point clouds collected from different sensors
+:::
 
 
 ### Types of Lidar sensors
@@ -34,7 +41,12 @@ Geiger-mode lidar systems use an array of avalanche photodiodes (APDs) to detect
 #### Single Photon Lidar
 Single photon lidar, on the other hand, uses a single photon detector to detect the laser pulse as it reflects off a surface. It typically only records the time of flight of the laser pulse, and therefore doesn't provide as much information about the returned signal as full waveform lidar. However, it has the advantage of being able to detect very weak signals, and is therefore useful for applications such as detecting very low reflectivity surfaces, such as oil slicks on water or certain types of minerals. This technology is also more lightweight, compact and energy efficient than full waveform lidar.
 
+::: {#fig-sensor-types}
 ![](https://d3i71xaburhd42.cloudfront.net/44269dd30a6c813e78174c421c97157f486a8c52/2-Figure1-1.png)
 
+Comparison of lidar sensor types used in airborne systems
+:::
+
+{{< include _lidar_about_products.qmd >}}
 
 {{< include _lidar_about_photogrammetry_comparison.qmd >}}

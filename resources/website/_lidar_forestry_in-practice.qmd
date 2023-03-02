@@ -1,4 +1,6 @@
 
 ### Lidar data in practice
 
-[@nilssonNationwideForestAttribute2017]
+"A wall-to-wall forest attribute map was produced for all of Sweden. ALS data were combined with field data from the Swedish NFI." [@nilssonNationwideForestAttribute2017]
+
+https://www.wbv-nordschwarzwald.de/3d-forstinventur-projekt

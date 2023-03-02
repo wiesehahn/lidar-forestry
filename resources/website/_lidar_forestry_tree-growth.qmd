@@ -3,16 +3,34 @@
 
 Using repeat airborne LiDAR to map the growth of individual trees and forest stands
 
-Resources:
-[@beeseUsingRepeatAirborne2022; @maltamoEstimationPeriodicAnnual2022; @riofrioHarmonizingMultitemporalAirborne2022; @soininenPredictingGrowthIndividual2022; @tompalskiEstimatingChangesForest2021; @yrttimaaCapturingSeasonalRadial2023]
+"use spatially explicit information on tree location and competition to forecast potential tree height, defined as a maximum projected tree height at rotation age" [@gavilan-acunaEstimatingPotentialTree2022]
 
-Measuring the growth of individual trees using multi-temporal airborne laser scanning point clouds (https://www.isprs.org/proceedings/xxxvi/3-w19/papers/204.pdf)
+"The height growth of >500,000 individual oil palms was mapped using repeat LiDAR." [@beeseUsingRepeatAirborne2022]
 
+"prediction of the periodic annual increment (PAI) of the width of tree rings over a period of 10 years." [@maltamoEstimationPeriodicAnnual2022]
+
+"importance of assessing and harmonizing the vertical alignment of multi-temporal ALS data sets used for height growth calculations" [@riofrioHarmonizingMultitemporalAirborne2022]
+
+"it is possible to determine long-term diameter and stem volume growth values of individual trees from bitemporal airborne laser scanning point cloud data with reasonable accuracy, apart from height growth, which can be obtained with high accuracy" [@soininenPredictingGrowthIndividual2022]
+
+"increasing availability of three-dimensional point clouds allow for the derivation of forest inventory information with a high level of attribute accuracy and spatial detail." [@tompalskiEstimatingChangesForest2021]
+
+"with TLS data acquisition and existing point cloud processing methods, it is possible to observe seasonal increments in tree structures" [@yrttimaaCapturingSeasonalRadial2023]
+
+::: {#fig-tree-growth1}
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig1_HTML.png?as=webp)
 
+Approaches used to characterize change in forest attributes (from @tompalskiEstimatingChangesForest2021)
+:::
+
+::: {#fig-tree-growth2}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig2_HTML.png?as=webp)
 
+Approaches used to estimate past change in forest inventory attributes (from @tompalskiEstimatingChangesForest2021)
+:::
+
+::: {#fig-tree-growth3}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig4_HTML.png?as=webp)
 
-
-
+Approaches to integrate growth simulators with point cloud data to forecast forest inventory attributes (from @tompalskiEstimatingChangesForest2021)
+:::
