@@ -1,7 +1,7 @@
 
-### Status of ALS data in Germany
+### Germany
 
-Geodata collection, administration and publication in Germany is predominantly organized in federal structures by the land surveying and cadaster authorities of the 16 federal states. Although the Working Committee of the surveying authorities of the states of the Federal Republic of Germany (AdV) defines guidelines and standards there is still a variety of different data types in the realm of laser scanning data. Some of the attributes for available ALS data are listes in @tbl-als-federal.
+Geodata collection, administration and publication in Germany is predominantly organized in federal structures by the land surveying and cadaster authorities of the 16 federal states. Although the Working Committee of the surveying authorities of the states of the Federal Republic of Germany (AdV) defines guidelines and standards there is still a variety of different data types in the realm of laser scanning data. For applications on a broader scale beyond state boundaries it is essential to know the data availability. Hence, information on federal ALS was collected (@tbl-als-federal lists some of the attributes by state). 
 
 
 | Bundesland | Kosten von[^1] | Kosten bis[^2] | Daten von[^3] | Daten bis[^4] | nominelle Punktdichte[^5] | Datenformat | EPSG |

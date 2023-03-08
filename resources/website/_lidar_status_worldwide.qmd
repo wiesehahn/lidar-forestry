@@ -1,5 +1,5 @@
 
-### Status of ALS data worldwide
+### Worldwide
 
 ##### Canada:
 New LiDAR Point Clouds product: Canada as you've never seen it before!
