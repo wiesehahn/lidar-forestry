@@ -7,6 +7,10 @@ Hydrological analysis of forests involves the study of how forests affect the mo
 
 "Structural forest characterizations, digital soil mapping, and hydrological modelling, among others, provide important indicators for assessing criteria and related ecosystem services. ALS data can support these activities, which in turn, promote informed forest management decisions and the development of effective policy." [@goodbodyAirborneLaserScanning2021]
 
+
+"LIDAR-derived terrain indices proved effective for mapping of forest soil moisture" [@agrenUseMultipleLIDARderived2021]
+
+
 ::: {#fig-hydrology1}
 ![](https://www.whiteboxgeo.com/manual/wbt_book/img/StochasticDepressionAnalysis_fig1.png)
 

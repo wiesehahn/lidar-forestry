@@ -17,3 +17,5 @@ Integration of Photo Interpreted and LIDAR Attributes Into a Polygonal Forest In
 
 "detailed forest information from ALS point clouds is useful to indicate regions not suitable
 for forest operations" [@gorgensAutomatedOperationalLogging2020]
+
+"predict the need for commercial thinning using airborne lidar data. This study offers a novel approach for planning commercial thinnings using ALS-based structure metrics in order to most effectively utilize the information with the highest acquisition cost—the decisions made in situ by forest inventory experts." [@arumaePlanningCommercialThinnings2022]

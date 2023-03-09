@@ -5,6 +5,8 @@
 
 ### Short term 
 
+#### Derive geodata layers to support forest management decisions
+
 ::: {#fig-intention-baselayers}
 ![](https://essd.copernicus.org/articles/14/823/2022/essd-14-823-2022-f02-web.png)
 
@@ -13,6 +15,8 @@ Terrain model derived descriptors to support forest decisions (from @assmannEcoD
 
 ### Long term
  
+#### Enhanced forest inventory
+
 ::: {#fig-intention-efi}
 ![](https://user-images.githubusercontent.com/41429613/216407821-d0036b6c-4467-4826-8d4a-e74bc6fd5269.png)
 

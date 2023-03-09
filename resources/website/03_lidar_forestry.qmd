@@ -1,6 +1,8 @@
 
 ## Lidar data in forestry
 
+{{< include _lidar_forestry_publications.qmd >}}
+
 {{< include _lidar_forestry_geomorphology.qmd >}}
 
 {{< include _lidar_forestry_hydrology.qmd >}}

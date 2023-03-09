@@ -29,3 +29,21 @@ Forest Gap Change Detection (from https://github.com/carlos-alberto-silva/Forest
 :::
 
 ForestGapR: An r Package for forest gap analysis from canopy height models [@silvaForestGapRPackageForest2019]
+
+#### Leaf Area Index
+
+"airborne laser scanning can be applied to map effective leaf area
+index" [@solbergMappingLAINorway2009]
+
+"Airborne Laser Scanning has been considered as a primary source to model the structure and function of a forest canopy through the indicators leaf area index (LAI) and vertical canopy profiles of leaf area density (LAD). Stable LAD profile were obtained when the grain size was less than 10 m and pulse density was high (>15 pulses m²)." (in tropical forests) [@almeidaOptimizingRemoteDetection2019]
+
+"LAD estimates from airborne LiDAR can be used to describe the three-dimensional structure of forests across entire landscapes. This information can help inform forest management and conservation decisions related to the estimation of aboveground biomass and productivity, the response of forests to large-scale disturbances, the impacts of drought on forest health, the conservation of bird habitat, as well as a host of other important forest processes and responses." [@kamoskeLeafAreaDensity2019]
+
+
+::: {#fig-lai}
+![](https://www.researchgate.net/profile/Danilo-Almeida/publication/330203798/figure/fig4/AS:712488966447105@1546882015531/LAD-Leaf-Area-Density-profile-and-LAI-Leaf-Area-Index-calculation-Gray-voxels.ppm)
+
+LAD (Leaf Area Density) profile and LAI (Leaf Area Index) calculation. (from @almeidaOptimizingRemoteDetection2019)
+:::
+
+[canopyLazR](https://github.com/akamoske/canopyLazR): R package to estimate leaf area density (LAD) and leaf area index (LAI) from airborne LiDAR point clouds

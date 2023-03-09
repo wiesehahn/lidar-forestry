@@ -32,6 +32,8 @@ Image-based point clouds primarily characterize the outer envelope of the forest
 
 "Given the known quality and consistency of ALS-derived forest inventory attributes, these data are highly desired by forest managers and practitioners. The higher cost of ALS over photointerpretation-based forest inventory has meant that in some jurisdictions, ALS data are strategically obtained over areas of high interest or value. Such a calculated implementation strategy allows for the benefits of ALS-derived inventories to be captured over specific areas, while minimizing costs of data acquisition, processing and modelling, among other considerations." [@tompalskiQuantifyingPrecisionForest2021]
 
+"tree height, the results varied from an RMSE of 0.36 m for UAV-LiDAR data to 2.89 m for photogrammetric data acquired by an aircraft." [@ganzMeasuringTreeHeight2019]
+
 ::: {#fig-photogrammetry-comparison}
 ![](https://pub.mdpi-res.com/forests/forests-04-00518/article_deploy/html/images/forests-04-00518-ag.png?1580953800)
 

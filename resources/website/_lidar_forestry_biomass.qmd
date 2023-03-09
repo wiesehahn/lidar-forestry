@@ -6,3 +6,13 @@ Laser scanning reveals potential underestimation of biomass carbon in temperate 
 "practical solutions to challenges faced in using spatiotemporal patchworks of LiDAR to meet growing needs for AGB prediction and mapping in support of broad-scale applications in forest carbon accounting and ecosystem stewardship" [@johnsonFineresolutionLandscapescaleBiomass2022]
 
 "national forest inventory (NFI) data was used as reference data for modeling forest basal area, volume, above-ground biomass, and total biomass from laser scanning data obtained in a countrywide scanning survey." [@nord-larsenEstimationForestResources2012]
+
+"this study confirm the utility of LiDAR for estimating wood volume in deciduous broad-leafed forest, but highlight the challenges associated with field plot size and number" [@levickScalingWoodVolume2016]
+
+::: {#fig-cwd}
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13021-016-0048-7/MediaObjects/13021_2016_48_Fig5_HTML.gif?as=webp)
+
+Landscape scale extrapolation of wood volume (from @levickScalingWoodVolume2016)
+:::
+
+
