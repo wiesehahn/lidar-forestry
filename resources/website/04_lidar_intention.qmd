@@ -7,6 +7,9 @@
 
 #### Derive geodata layers to support forest management decisions
 
+ALS (and DAP) data has enormous potential in the fields of forestry and ecology, but "despite the increasing availability of such data at regional and national scales, the average ecologist has been limited in accessing them due to high requirements on computing power and remote sensing knowledge", as @assmannEcoDesDK15HighresolutionEcological2022 descibe it. Hence, the availability of selected descriptors/indices of interest for forestry and ecological studies would be a big asset in these fields for researchers and practitioners. 
+High-resolution measures including vegetation measures such as height, structure and density, as well as topographic and hydrologic descriptors could be provided ready-to-use in standardized formats.
+
 ::: {#fig-intention-baselayers}
 ![](https://essd.copernicus.org/articles/14/823/2022/essd-14-823-2022-f02-web.png)
 
@@ -16,6 +19,11 @@ Terrain model derived descriptors to support forest decisions (from @assmannEcoD
 ### Long term
  
 #### Enhanced forest inventory
+
+Integrate terrestrial data remote sensing data for enhanced inventories. 
+ALS-data provides precise data at longer time intervals (currently federal data is recorded approximately every 10 years). Orthoimagery and derived surface models provide data at intermediate timesteps (federal data is recorded every 2-3 years). And if moderate resoultion data from satellites with high temporal repition rates is integrated we are getting towards a framework for near real-time (living) forest inventories.
+
+Currently, multiple projects are ongoing to derive tree species, forest disturbances and health conditions. These data should not be considered as individual data sets. Instead, it could be combined with each other and with addidional data sources to build components for a digital twin of forests.
 
 ::: {#fig-intention-efi}
 ![](https://user-images.githubusercontent.com/41429613/216407821-d0036b6c-4467-4826-8d4a-e74bc6fd5269.png)
@@ -29,8 +37,3 @@ Enhanced forest inventory for continuous data integration
 
 Framework for near real-time forest inventory (from  @coopsFrameworkRealtimeForest2023)
 :::
-
-
-
-
-

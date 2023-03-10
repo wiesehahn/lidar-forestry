@@ -13,7 +13,8 @@ Integration of Photo Interpreted and LIDAR Attributes Into a Polygonal Forest In
 
 "explore the potential of LiDAR and other geospatial information sources to model and predict wood quality based on individual-tree and stand structural metrics." [@vanleeuwenAssessmentStandingWood2011]
 
-"a conceptual framework for forestry inventory update, which is also known as the establishment of a ‘living inventory’." [@coopsFrameworkRealtimeForest2023]
+"Contemporary inventory data demands are shifting, with an increased focus on accurate attribute estimation via the integration of advanced remote sensing data such as airborne laser scanning (ALS).
+a conceptual framework for forestry inventory update, which is also known as the establishment of a ‘living inventory’." [@coopsFrameworkRealtimeForest2023]
 
 "detailed forest information from ALS point clouds is useful to indicate regions not suitable
 for forest operations" [@gorgensAutomatedOperationalLogging2020]
