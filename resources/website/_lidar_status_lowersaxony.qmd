@@ -2,7 +2,7 @@
 ### Lower Saxony
 
 Unfortunately ALS data in Lower Saxony is still not available as open data. However, there is a contract which makes the data available to th NW-FVA for research purposes. 
-First data is available for the year 2010 and since then there have been regular updates from year to year. @fig-als-lower-saxony-year provides an overview on the year of data acquisition in Lower Saxony by region. A constantly updated version is also available from LGLN at https://cms.lgln.niedersachsen.de/fb24/dgm1_dom1.pdf.
+First data is available for the year 2010 and since then there have been regular updates from year to year. @fig-als-lower-saxony-year provides an overview on the year of data acquisition in Lower Saxony by region. A constantly updated version is also available from LGLN from [lgln.niedersachsen.de](https://cms.lgln.niedersachsen.de/fb24/dgm1_dom1.pdf).
 
 
 ::: {#fig-als-lower-saxony-year}

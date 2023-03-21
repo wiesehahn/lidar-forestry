@@ -1,0 +1,54 @@
+
+### Software to process lidar data
+
+
+#### [Whiteboxtools](https://www.whiteboxgeo.com/)
+"advanced open-source geospatial data analysis platform"
+
+#### [LAStools](https://rapidlasso.com/lastools/)
+"a collection of highly efficient, batch-scriptable, multicore command line tools to classify, tile, convert, filter, raster, triangulate, contour, clip, and polygonize LiDAR data"
+
+#### [PDAL](https://pdal.io/en/latest/)
+"library for translating and manipulating point cloud data"
+
+#### [CloudCompare](https://cloudcompare.org/)
+"3D point cloud and mesh processing software"
+
+#### [GRASSGIS](https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017))
+GRASS GIS offers, besides other things, numerous analytical tools for point clouds
+
+#### [QGIS](https://www.qgis.org/de/site/)
+
+#### RStats
+
+##### [lidR package](https://github.com/r-lidar/lidR)
+An R package for analysis of Airborne Laser Scanning (ALS) data [@rousselLidRPackageAnalysis2020]
+
+##### [rLIDAR package](https://github.com/carlos-alberto-silva/rLiDAR)
+LiDAR Data Processing and Visualization 
+
+##### [canopyLazR package](https://github.com/akamoske/canopyLazR)
+"R package to estimate leaf area density (LAD), leaf area index (LAI), and forest structural attributes from airborne LiDAR point clouds."
+
+##### [lidaRtRee package](https://gitlab.irstea.fr/jean-matthieu.monnet/lidaRtRee)
+"R package providing functions for forest analysis using airborne laser scanning (lidar remote sensing) data."
+
+##### [ForestGapR package](https://github.com/carlos-alberto-silva/ForestGapR)
+"An R Package for Airborne Laser Scanning-derived Tropical Forest Gaps Analysis"
+
+##### [sgsR package](https://github.com/tgoodbody/sgsR)
+"a structurally guided sampling toolbox for LiDAR-based forest inventories"
+
+##### [ALSroads package](https://github.com/Jean-Romain/ALSroads)
+"Road corrections and measurements from ALS data "
+
+#### [Forest Structural Complexity Tool](https://github.com/SKrisanski/FSCT)
+plot scale measurements to be extracted automatically from most high-resolution forest point clouds from a variety of sensor sources
+
+#### [VOSTOK - The Voxel Octree Solar Toolkit](https://doi.org/10.11588/data/QNA02B)
+command-line tool to compute a detailed model of incoming solar radiation distribution on a patch of land, including structures like buildings and vegetation, represented by a 3D point cloud data set
+
+
+### Apps
+
+#### ForestScanner [@tatsumiForestScannerMobileApplication2022]

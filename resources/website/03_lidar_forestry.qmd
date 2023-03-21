@@ -37,9 +37,13 @@
 
 {{< include _lidar_forestry_single-photon-lidar.qmd >}}
 
+{{< include _lidar_forestry_geiger-mode-lidar.qmd >}}
+
 {{< include _lidar_forestry_nrt-forest-monitoring.qmd >}}
 
 {{< include _lidar_forestry_in-practice.qmd >}}
+
+{{< include _lidar_forestry_public-relation.qmd >}}
 
 
 

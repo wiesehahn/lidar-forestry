@@ -1,0 +1,6 @@
+
+### Public relation
+
+Apart from quantitative analyses lidar point clouds and derived products can also be used to communicate and vizualize information. A good example can be seen a movie about the project "Grünes Gallustal", where ALS data was acquired to capture the city status. This digital twin was then enhanced with planned city developments to create a video for communicating the project ideas (https://www.gruenesgallustal.ch/).
+Lidar data is also used in documentaries to vizualize forests in other perspectives (e.g. [The Giants](https://documentaryaustralia.com.au/project/the-giants/)) 
+

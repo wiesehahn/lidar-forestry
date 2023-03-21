@@ -3,8 +3,6 @@
 
 "develop a post-processing strategy to improve the positional accuracy of GNSS-measured sample-plot centers and to develop a method to automatically match trees within a terrestrial sample plot to aerial detected trees." [@lamprechtMachineLearningMethod2017]
 
-
-
 ::: {#fig-co-registration}
 ![](https://pub.mdpi-res.com/remotesensing/remotesensing-09-00505/article_deploy/html/images/remotesensing-09-00505-ag-550.jpg?1569355984)
 

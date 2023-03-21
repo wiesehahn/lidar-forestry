@@ -11,6 +11,8 @@
 
 "Recent advances in remote sensing and data processing are revolutionising our ability to accurately measure tree and forest structure from leaves to landscapes." [@linesShapeTreesReimagining2022]
 
+"Models utilising leaf-off LiDAR diversity variables described DBH diversity, crown length diversity and crown width diversity more successfully than leaf-on." [@davisonEffectLeafonLeafoff2020]
+
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 
@@ -21,6 +23,9 @@ Variables to describe the vertical structure of the vegetation (from @moudryVege
 #### Forest canopy gaps
 
 "report large-scale estimates of Amazonian gap dynamics using a novel approach with large datasets of airborne light detection and ranging" [@dalagnolLargescaleVariationsDynamics2021]
+
+"compared the performance of LiDAR and DAP data for characterizing canopy openings. 
+recommend that operational use of DAP in forests be limited to mapping large canopy openings" [@dietmaierComparisonLiDARDigital2019]
 
 ::: {#fig-canopy-gaps}
 ![](https://raw.githubusercontent.com/carlos-alberto-silva/ForestGapR/master/readme/fig_4.png)

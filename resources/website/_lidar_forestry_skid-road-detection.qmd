@@ -5,6 +5,8 @@
 
 https://github.com/RaffiBienz/skidroad_finder
 
+"proposed the use of a LiDAR-derived rutting index, based on the cumulative length of ruts (CLR), to assess and monitor soil compaction across large spatial extents by means of airborne remote sensing." [@mohieddinneAssessmentSoilCompaction2023]
+
 OGF offers the digitalization of skid road tracks from ULS as a service as part of forest stand inventories [@ogfdroneteamLiDARALSIm2022]
 
 ::: {#fig-skid-road-detection}

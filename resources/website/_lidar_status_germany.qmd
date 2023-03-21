@@ -3,33 +3,32 @@
 
 Geodata collection, administration and publication in Germany is predominantly organized in federal structures by the land surveying and cadaster authorities of the 16 federal states. Although the Working Committee of the surveying authorities of the states of the Federal Republic of Germany (AdV) defines guidelines and standards there is still a variety of different data types in the realm of laser scanning data. For applications on a broader scale beyond state boundaries it is essential to know the data availability. Hence, information on federal ALS was collected (@tbl-als-federal lists some of the attributes by state). 
 
-
-| Bundesland | Kosten von[^1] | Kosten bis[^2] | Daten von[^3] | Daten bis[^4] | nominelle Punktdichte[^5] | Datenformat | EPSG |
+| Federal State | Cost (min)[^1] | Cost (max)[^2] | Year (from)[^3] | Year (to)[^4] | Point Density[^5] | Format | CRS (EPSG) |
 |---|---|---|---|---|---|---|---|
 | Baden-Württemberg | 10 | 80 | 2016 | 2021 | 8 | LAZ 1.2 | 25832 |
-| Bayern | 0 | 0 | 2011 | 2021 | 1-4 | LAZ 1.2 | 25832 |
+| Bavaria | 0 | 0 | 2011 | 2021 | 1-4 | LAZ 1.2 | 25832 |
 | Berlin | 0 | 0 | 2021 | 2021 | 10 | LAS 1.4 | 25833 |
 | Brandenburg | 0 | 0 | 2017 | 2022 | 5 | LAZ 1.4 | 25833 |
-| Bremen | ? | ? | ? | 2017 | ? | ? | 25832 |
+| Bremen | 80 | 80 | 2017 | 2017 | ? | ? | 25832 |
 | Hamburg | ? | ? | 2020 | 2020 | ? | ? | 25832 |
-| Hessen | 0 | 0 | 2009 | 2020 | 4 | LAS 1.3 | 25832 |
-| Mecklenburg-Vorpommern | 10 | 80 | 2012 | 2022 | 2-5 | LAZ 1.2 | 25833 |
-| Niedersachsen | 3,75 | 30 | 2015 | 2021 | 4 | LAZ 1.2 | 25832 |
-| Nordrhein-Westfalen | 0 | 0 | 2018 | 2022 | 4-10 | LAZ 1.2 | 25832 |
-| Rheinland-Pfalz | 25 | 100 | 2014 | 2022 | 4 | LAZ 1.2 | 25832 |
+| Hesse | 0 | 0 | 2009 | 2020 | 4 | LAS 1.3 | 25832 |
+| Mecklenburg-Western Pomerania | 10 | 80 | 2012 | 2022 | 2-5 | LAZ 1.2 | 25833 |
+| Lower Saxony | 3,75 | 30 | 2015 | 2021 | 4 | LAZ 1.2 | 25832 |
+| North Rhine-Westphalia | 0 | 0 | 2018 | 2022 | 4-10 | LAZ 1.2 | 25832 |
+| Rhineland-Palatinate | 25 | 100 | 2014 | 2022 | 4 | LAZ 1.2 | 25832 |
 | Saarland | 120 | 120 | 2016 | 2016 | 4 | LAS 1.2 | 25832 |
-| Sachsen | 0 | 0 | 2015 | 2022 | 4 | LAZ 1.2 | 25833 |
-| Sachsen-Anhalt | ? | 80 | 2009 | 2022 | 3-5 | XYZ | 25832 |
-| Schleswig-Holstein | ? | ? | ? | ? | 3 | ? | 25832 |
-| Thüringen | 0 | 0 | 2017 | 2022 | 4 | LAZ 1.4 | 25832 |
+| Saxony | 0 | 0 | 2015 | 2022 | 4 | LAZ 1.2 | 25833 |
+| Saxony-Anhalt | ? | 80 | 2009 | 2022 | 3-5 | XYZ | 25832 |
+| Schleswig-Holstein | ? | ? | ? | ? | 3-5 | ? | 25832 |
+| Thuringia | 0 | 0 | 2017 | 2022 | 4 | LAZ 1.4 | 25832 |
 
 : Comparison of available ALS data in Germany by state {#tbl-als-federal}
 
-[^1]: € pro km² (mit Mengenrabatt)
-[^2]: € pro km² (ohne Mengenrabatt)
-[^3]: älteste Daten zur aktuellen landesweiten Abdeckung
-[^4]: jüngste Daten zur aktuellen landesweiten Abdeckung
-[^5]: angegebene Mindestanzahl Punkte pro m² (im Regelfall sind Pulses gemeint)
+[^1]: in € per km² (with volume discount; plus processing fee)
+[^2]: in € per km² (plus processing fee)
+[^3]: oldest data for statewide coverage
+[^4]: newsest data for statewide coverage
+[^5]: specified minimum number of points per m²
 
 
 According to @virtanenNationwidePointCloud2017 "topographic databases maintained by national mapping agencies are currently the most common nationwide data sets in geo-information", however this is not true for Germany. Until now there is no single data set which is available for entire Germany. However, there are plans to generate such data. The project "Digital Twin Germany" aims to acquire high density point cloud data for Germany. The project is run by the Federal Agency for Cartography and Geodesy (BKG), Germany's national mapping agency. Data acquisition starts in 2023 and the goal is to have a data set for entire Germany by 2024. It is also planned to have at least one repition some years later. 

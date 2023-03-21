@@ -5,7 +5,7 @@ Point clouds or height information in general can also be calculated from from o
 
 There are several key differences between image-based point clouds and lidar-derived point clouds:
 
-- Resolution: Lidar-derived point clouds typically have a higher resolution than image-based point clouds, especially in the z-axis (vertical direction). This is because lidar sensors are able to measure the distance to multiple objects if there are tiny gaps (e.g. in the canopy). Image-based point clouds usually only cover the upper-most layer since points in the lower layers typically cannot be senn and matched in multiple images. 
+- Resolution: Lidar-derived point clouds typically have a higher resolution than image-based point clouds, especially in the z-axis (vertical direction). This is because lidar sensors are able to measure the distance to multiple objects if there are tiny gaps (e.g. in the canopy). Image-based point clouds usually only cover the upper-most layer since points in the lower layers typically cannot be seen and matched in multiple images (if they can be seen through a gap the angle for triangulation is very narrow which makes Z-estimations unprecise). 
 - Color: Image-based point clouds typically have color information associated with them, while lidar-derived point clouds do not. However, the color information can be added to the lidar point clouds by overlapping them with RGB imagery in postprocessing.
 - Light condition: Lidar sensors are able to capture data in a wider range of lighting conditions than cameras, including in low light or complete darkness, while orthoimagery very much depends on the illumination conditions (sun, clouds, shadows, haze,...).
 - Surface detection: Lidar sensors are able to detect surfaces that are difficult to see with cameras, such as surfaces that are very dark, very reflective, or very transparent.
@@ -33,6 +33,8 @@ Image-based point clouds primarily characterize the outer envelope of the forest
 "Given the known quality and consistency of ALS-derived forest inventory attributes, these data are highly desired by forest managers and practitioners. The higher cost of ALS over photointerpretation-based forest inventory has meant that in some jurisdictions, ALS data are strategically obtained over areas of high interest or value. Such a calculated implementation strategy allows for the benefits of ALS-derived inventories to be captured over specific areas, while minimizing costs of data acquisition, processing and modelling, among other considerations." [@tompalskiQuantifyingPrecisionForest2021]
 
 "tree height, the results varied from an RMSE of 0.36 m for UAV-LiDAR data to 2.89 m for photogrammetric data acquired by an aircraft." [@ganzMeasuringTreeHeight2019]
+
+"results illustrate DAP’s sensitivity to occlusions, mismatched tie points, and other optical challenges inherent to using structure-from-motion workflows in complex forest scenes. These under-documented constraints currently limit the technology’s capacity to fully characterize canopy structure. For now, we recommend that operational use of DAP in forests be limited to mapping large canopy openings, and area-based attributes that are well-documented in the literature." [@dietmaierComparisonLiDARDigital2019]
 
 ::: {#fig-photogrammetry-comparison}
 ![](https://pub.mdpi-res.com/forests/forests-04-00518/article_deploy/html/images/forests-04-00518-ag.png?1580953800)

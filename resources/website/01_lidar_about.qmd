@@ -17,6 +17,10 @@ This type of lidar is mounted on unmanned aerial vehicles (UAV) and is used to c
 #### Airborne laser scanning (ALS)
 This type of lidar is mounted on aircraft and is used to collect data from large areas, such as entire cities or large forests. It is commonly used for mapping, land-use planning, and environmental monitoring.
 
+#### Spaceborne laser
+There are also lidar sensors equipped to platforms in the space. One of these spaceborne lidar missions is the global ecosystem dynamics investigation (GEDI), which is attached to the International Space Station to monitor biomass in tropical forests. Another lidar system in space is the ICESat-2 project, where the sensor is equipped to a satellite to measure polar ice thickness.  
+
+
 ::: {#fig-sensor-platforms-comparison}
 ![](https://natural-resources.canada.ca/sites/nrcan/files/Geoscience/acquisition-lidar-avion.png)
 
@@ -38,15 +42,33 @@ Full waveform lidar records the entire laser pulse as it reflects off a surface 
 #### Geiger-Mode Lidar
 Geiger-mode lidar systems use an array of avalanche photodiodes (APDs) to detect the incoming photons. Geiger-mode LIDAR provides only range information, not radiometric data, and is less accurate compared to full-waveform LIDAR. The technique has advantages in situations where rapid terrain acquisition from high altitude is required.
 
+3DEO (2023)
+"30km²/hour" with high point density 
+10-30 million 3D measurements per second
+systems on a jet at 9000 m could map a swath on the ground 5 km wide,  delivering 3D imagery at 30 cm resolution.
+
+Harris (2015)
+4 points per m2 1200 km2/hr
+8 points per m2 1000 km2/hr
+20 points per m2 700 km2/hr
+
 #### Single Photon Lidar
 Single photon lidar, on the other hand, uses a single photon detector to detect the laser pulse as it reflects off a surface. It typically only records the time of flight of the laser pulse, and therefore doesn't provide as much information about the returned signal as full waveform lidar. However, it has the advantage of being able to detect very weak signals, and is therefore useful for applications such as detecting very low reflectivity surfaces, such as oil slicks on water or certain types of minerals. This technology is also more lightweight, compact and energy efficient than full waveform lidar.
+
+"Less flight strips are needed to cover the same area with comparable point density with SPL. SPL exhibits moderate vegetation penetration under leaf-on conditions" [@mandlburgerCOMPARISONSINGLEPHOTON2019]
+
+laser pulse simultaneously emits a large number of mutually but non-overlapping sub-beams, each of which is assigned on the detector side an individual field of view aligned to its spatial direction
+
+uses laser radiation in the visible green range of the spectrum (wavelength λ=532 nm)
 
 ::: {#fig-sensor-types}
 ![](https://d3i71xaburhd42.cloudfront.net/44269dd30a6c813e78174c421c97157f486a8c52/2-Figure1-1.png)
 
-Comparison of lidar sensor types used in airborne systems
+Comparison of lidar sensor types used in airborne systems (from @mandlburgerCOMPARISONSINGLEPHOTON2019)
 :::
 
-{{< include _lidar_about_products.qmd >}}
+{{< include _lidar_about_lidar-software.qmd >}}
+
+{{< include _lidar_about_lidar-products.qmd >}}
 
 {{< include _lidar_about_photogrammetry_comparison.qmd >}}

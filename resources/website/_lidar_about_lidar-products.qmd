@@ -1,5 +1,5 @@
 
-### Products
+### Lidar-based data products
 
 #### Point Cloud Data
 The "raw" LiDAR data product is collection of point data, made up by 3-dimensional (X, Y, Z) points (the location) with optional other attributes such as intensity, classification of features and GPS time. These point clouds can consist of millions to billions of points. 
