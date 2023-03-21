@@ -5,6 +5,9 @@ Lidar, or Light Detection and Ranging, is a remote sensing technology that uses 
 
 ### Types of Lidar platforms
 
+#### Phone based laser scanning 
+As lidar Sensors are getting smaller and cheaper there is even a lidar sensor built in the newest IPhone generation. 
+
 #### Terrestrial laser scanning (TLS)
 This type of lidar is mounted on a tripod or other stationary platform, and is used to collect data from a specific location. It is commonly used in architectural and engineering applications. While the other systems are kinematic, TLS is a static system.
 
