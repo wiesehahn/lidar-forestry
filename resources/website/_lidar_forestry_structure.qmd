@@ -13,6 +13,9 @@
 
 "Models utilising leaf-off LiDAR diversity variables described DBH diversity, crown length diversity and crown width diversity more successfully than leaf-on." [@davisonEffectLeafonLeafoff2020]
 
+"Over the last 20+ years, lidar technology has fundamentally changed the way we observe and describe forest structure, and it will continue to impact the ways in which we investigate
+and monitor the relations between forest structure and functions."  [@belandPromotingUseLidar2019]
+
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 

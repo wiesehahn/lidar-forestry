@@ -4,3 +4,5 @@
 "LiDAR technology has proved to be powerful when assessing forest structural parameters, and it may be a promising way to identify existing overmature forest patches over large areas. We first built an index combining several forest structural maturity attributes in order to characterize the structural maturity." [@fuhrDetectingOvermatureForests2022]
 
 "Canopy roughness, ground vegetation vertical complexity, total vegetation volume and canopy height derived from lidar sensors were among the most common significant variables in explaining avian diversity and individual species abundance." [@shokirovHabitatHighsLows2023]
+
+"Combining satellite and airborne remote sensing data outperforms single data sources for habitat mapping significantly." [@iglsederPotentialCombiningSatellite2023]

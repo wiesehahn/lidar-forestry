@@ -9,6 +9,9 @@ Fallen tree mapping provides valuable information regarding the ecological value
 
 "Moderate-density LiDAR data enables detecting ecologically most significant trunks." [@heinaroAirborneLaserScanning2021]
 
+"ALS-detected deadwood can indicate forest conservation value.
+ALS data can be used to map forest conservation values and inform decisions about which forests should be used for timber production and which should be set aside as conservation areas." [@huoEstimatingConservationValue2023]
+
 ::: {#fig-cwd}
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0378112721003133-ga1_lrg.jpg)
 

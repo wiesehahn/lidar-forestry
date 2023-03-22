@@ -5,8 +5,8 @@ Lidar, or Light Detection and Ranging, is a remote sensing technology that uses 
 
 ### Types of Lidar platforms
 
-#### Phone based laser scanning 
-As lidar Sensors are getting smaller and cheaper there is even a lidar sensor built in the newest IPhone generation. 
+#### Personal laser scanning (PLS)
+Handheld laser scanning systems also referred to as personal Laser Scanning (PLS / H-PLS) systems emerged in recent years. As lidar sensors are getting smaller and cheaper there is even a lidar sensor built in the newest IPhone generation. 
 
 #### Terrestrial laser scanning (TLS)
 This type of lidar is mounted on a tripod or other stationary platform, and is used to collect data from a specific location. It is commonly used in architectural and engineering applications. While the other systems are kinematic, TLS is a static system.
@@ -14,14 +14,24 @@ This type of lidar is mounted on a tripod or other stationary platform, and is u
 #### Mobile laser scanning (MLS)
 This type of lidar is mounted on vehicles and is used to collect data while in motion. It is commonly used for mapping roads, bridges, and other transportation infrastructure.
 
-#### Unmanned aerial vehicle laser scanning (ULS)
+#### Unmanned aerial vehicle laser scanning (ULS / UAVLS)
 This type of lidar is mounted on unmanned aerial vehicles (UAV) and is used to collect data from above (low elevation) for small to medium areas.
 
 #### Airborne laser scanning (ALS)
 This type of lidar is mounted on aircraft and is used to collect data from large areas, such as entire cities or large forests. It is commonly used for mapping, land-use planning, and environmental monitoring.
 
-#### Spaceborne laser
+#### Spaceborne laser scanning (SLS)
 There are also lidar sensors equipped to platforms in the space. One of these spaceborne lidar missions is the global ecosystem dynamics investigation (GEDI), which is attached to the International Space Station to monitor biomass in tropical forests. Another lidar system in space is the ICESat-2 project, where the sensor is equipped to a satellite to measure polar ice thickness.  
+
+Typical area coverage (adapted from [@belandPromotingUseLidar2019]) 
+
+- TLS: 0.01-1 ha
+- PLS: 0.25-5 ha
+- MLS: 5-100 ha
+- ULS: 0.02-10 km²
+- ALS: 10-1000 km²
+- SLS: global
+
 
 
 ::: {#fig-sensor-platforms-comparison}
@@ -41,6 +51,7 @@ Comparison of point clouds collected from different sensors
 
 #### Full Waveform Lidar / Linear-Mode Lidar
 Full waveform lidar records the entire laser pulse as it reflects off a surface and returns to the sensor. This allows for more detailed measurements and analysis of the returned signal, such as the shape, width and amplitude of the returned pulse. This kind of Lidar is able to detect the presence of multiple surfaces and objects within the pulse's path and can also provide information about the reflectivity, density and other properties of the target surfaces. It is commonly used in applications such as vegetation mapping, forest canopy height and high resolution mapping.
+Discrete-return lidar identifies and retains a number of ranges for which the reflected laser energy signal exceeds a threshold.
 
 #### Geiger-Mode Lidar
 Geiger-mode lidar systems use an array of avalanche photodiodes (APDs) to detect the incoming photons. Geiger-mode LIDAR provides only range information, not radiometric data, and is less accurate compared to full-waveform LIDAR. The technique has advantages in situations where rapid terrain acquisition from high altitude is required.
@@ -56,7 +67,8 @@ Harris (2015)
 20 points per m2 700 km2/hr
 
 #### Single Photon Lidar
-Single photon lidar, on the other hand, uses a single photon detector to detect the laser pulse as it reflects off a surface. It typically only records the time of flight of the laser pulse, and therefore doesn't provide as much information about the returned signal as full waveform lidar. However, it has the advantage of being able to detect very weak signals, and is therefore useful for applications such as detecting very low reflectivity surfaces, such as oil slicks on water or certain types of minerals. This technology is also more lightweight, compact and energy efficient than full waveform lidar.
+ Single-photon lidar (SPL) uses a very short pulse of green (532 nm) laser light that is split into a 10 × 10 grid of beamlets with a diffractive optical element. Each beamlet has a low divergence of 0.08 mrad that results in non-overlapping footprints on the ground and is received by an individual detector aligned along its path. The system configuration allows an increase in both areal coverage and point density and a reduction in flying time and associated costs compared to conventional systems. The instrument is inherently sensitive to background solar noise when operated in daylight conditions, which requires subsequent noise filtering steps that could affect the accuracy of data. Moreover, the conventional intensity measure of the returns, which can be used for tree species characterization, cannot be derived similarly from single photon detection events. SPL still provides a proxy for intensity based on the cumulative count of detected photons although its range is limited [@coopsModellingLidarderivedEstimates2021].
+
 
 "Less flight strips are needed to cover the same area with comparable point density with SPL. SPL exhibits moderate vegetation penetration under leaf-on conditions" [@mandlburgerCOMPARISONSINGLEPHOTON2019]
 
