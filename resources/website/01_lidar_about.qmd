@@ -20,7 +20,7 @@ This type of lidar is mounted on unmanned aerial vehicles (UAV) and is used to c
 #### Airborne laser scanning (ALS)
 This type of lidar is mounted on aircraft and is used to collect data from large areas, such as entire cities or large forests. It is commonly used for mapping, land-use planning, and environmental monitoring.
 
-#### Spaceborne laser scanning (SLS)
+#### Spaceborne laser scanning (SLS / SBL)
 There are also lidar sensors equipped to platforms in the space. One of these spaceborne lidar missions is the global ecosystem dynamics investigation (GEDI), which is attached to the International Space Station to monitor biomass in tropical forests. Another lidar system in space is the ICESat-2 project, where the sensor is equipped to a satellite to measure polar ice thickness.  
 
 Typical area coverage (adapted from [@belandPromotingUseLidar2019]) 

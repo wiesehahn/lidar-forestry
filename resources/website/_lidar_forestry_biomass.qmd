@@ -12,6 +12,8 @@ Laser scanning reveals potential underestimation of biomass carbon in temperate 
 "found TLS biomass estimates were consistently more precise across species (RMSE = ~19%) than nation-scale allometry (RMSE = ~39%). Nondestructive biomass estimates from TLS are a suitable addition to or replacement for traditional sampling methods. 
 Although optical and airborne LiDAR are unable to fully capture understorey trees due to occlusion, the easily measured canopy trees dominate the biomass." [@stovallDevelopingNondestructiveSpecies2023]
 
+"accounted for uncertainties in both the individual tree-level biomass models and the models linking plot level biomass predictions with LiDAR metrics.
+75% of the mean square error was due to the uncertainty associated with tree-level models." [@saarelaMappingAbovegroundBiomass2020]
 
 ::: {#fig-cwd}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13021-016-0048-7/MediaObjects/13021_2016_48_Fig5_HTML.gif?as=webp)
