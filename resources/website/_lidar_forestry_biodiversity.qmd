@@ -12,3 +12,6 @@ review and highlight the value of ALS for quantifying indicators of biological d
 
 "Light detection and ranging (LiDAR) technology has the potential to radically alter the way researchers and managers collect data on wildlife–habitat relationships. To date, the technology has fostered several novel approaches to characterizing avian habitat.
 approach provide a useful framework to extract detailed and reliable habitat attributes for a forest-dwelling habitat specialist, broadening the potential to apply LiDAR in conservation and management of wildlife populations." [@garabedianQuantitativeAnalysisWoodpecker2014]
+
+"To understand time-lag dynamics in the response of biodiversity to contemporary environmental changes (e.g. macroclimate warming and atmospheric pollution), we need to consider former anthropogenic forcing factors such as past land uses and management practices.
+We encourage plant and soil ecologists to use LiDAR data to account for time-lagged biotic responses to long-term macro-environmental changes." [@lenoirUnveilUnseenUsing2022]

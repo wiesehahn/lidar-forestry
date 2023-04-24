@@ -33,7 +33,7 @@ Enhanced forest inventory for continuous data integration
 
 
 ::: {#fig-intention}
-![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/forestry/96/1/10.1093_forestry_cpac015/1/m_cpac015f2.jpeg?Expires=1679428296&Signature=rWiY4AyYWQZ9oa6jlO899FXox1F8ufD-wRQBXgcDiUphZ7L-LyEd2hVPbGWYUKwmK3HHL8yOkufffVd0kpu1O5lWXeBjOGIkRjbXGTFolS28y-WF-Pi9ifoaYjKaZyhDfxso8zZbtshKbRHdGT8cYvhIdh28v~E3SRYpFu4z0K6kZDqAwMiTJK94TVHRTA7TtJkIWibdNSbKBABtD-B09fETbixJIg0teBDa2RMnjynd0RIUi9937JtlCjN71SFlZjTjD-4Gusosykg3qwF1aoO~OHaOaUFrGLpQzxPmKt5qgkLdywQrZSFt8CtQ-uBLtt-C7eZkZ~BeXKkq35hF8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+![](https://academic.oup.com/view-large/figure/390813882/cpac015f2.tif)
 
 Framework for near real-time forest inventory (from  @coopsFrameworkRealtimeForest2023)
 :::

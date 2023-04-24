@@ -5,6 +5,8 @@ Project IntelliWay – Intelligente Wege – Condition Monitoring and Predictive
 
 "addresses the problem of the automatic updating, fixing, and enhancement of vectorial forestry road maps over large landscapes" [@rousselCorrectionUpdateEnhancement2022]
 
+"addresses the limitations of raster-based automatic forest road extraction and presents a method for producing a topologically accurate vectorial road network" [@rousselVectorialTopologicallyValid2023]
+
 ALSroads provides tools to relocate, measure and estimate the state of forestry roads from an inaccurate map. (https://github.com/Jean-Romain/ALSroads)
 
 ::: {#fig-track-detection}

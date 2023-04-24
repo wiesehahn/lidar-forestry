@@ -12,4 +12,6 @@ Multiscale unsphericity curvature calculated from DTM as geomorphometric terrain
 
 Lidar can be used to map cultural heritage sites (archeology, bomb craters, ...)
 
+"show that imprints from past land uses and management practices can still be captured today through well-chosen LiDAR-derived variables describing, at sub-decimetre scale, the vertical and horizontal micro-variations of vegetation and terrain structure hidden below treetops." [@lenoirUnveilUnseenUsing2022]
+
 "increasing availability of light detection and ranging data presents new opportunities to apply digital soil mapping to support forest resource applications at multiple scales. This project describes a digital soil mapping workflow using LiDAR-derived elevation data and machine learning models  to predict key forest soil attributes." [@blackfordDigitalSoilMapping2021]
