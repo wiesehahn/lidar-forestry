@@ -7,6 +7,8 @@ Project IntelliWay – Intelligente Wege – Condition Monitoring and Predictive
 
 "addresses the limitations of raster-based automatic forest road extraction and presents a method for producing a topologically accurate vectorial road network" [@rousselVectorialTopologicallyValid2023]
 
+"We use airborne laser scanning (ALS), to facilitate the identification of forest roads across densely forested landscapes. We categorized roads into four classes based on driveable width, edge vegetation, as well as surface and edge degradation as derived from high-density Single Photon LiDAR (SPL) data." [@morleyUpdatingForestRoad2023]
+
 ALSroads provides tools to relocate, measure and estimate the state of forestry roads from an inaccurate map. (https://github.com/Jean-Romain/ALSroads)
 
 ::: {#fig-track-detection}

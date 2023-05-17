@@ -3,6 +3,8 @@
 
 Laser scanning reveals potential underestimation of biomass carbon in temperate forest [@caldersLaserScanningReveals2022].
 
+"even with the highest average pulse density of 11 pulses/m2, at least 25% of the forest canopy volume remains occluded in the ALS acquisition under leaf-on conditions" [@kukenbrinkQuantificationHiddenCanopy2017]
+
 "practical solutions to challenges faced in using spatiotemporal patchworks of LiDAR to meet growing needs for AGB prediction and mapping in support of broad-scale applications in forest carbon accounting and ecosystem stewardship" [@johnsonFineresolutionLandscapescaleBiomass2022]
 
 "national forest inventory (NFI) data was used as reference data for modeling forest basal area, volume, above-ground biomass, and total biomass from laser scanning data obtained in a countrywide scanning survey." [@nord-larsenEstimationForestResources2012]

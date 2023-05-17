@@ -20,3 +20,8 @@ a conceptual framework for forestry inventory update, which is also known as the
 for forest operations" [@gorgensAutomatedOperationalLogging2020]
 
 "predict the need for commercial thinning using airborne lidar data. This study offers a novel approach for planning commercial thinnings using ALS-based structure metrics in order to most effectively utilize the information with the highest acquisition cost—the decisions made in situ by forest inventory experts." [@arumaePlanningCommercialThinnings2022]
+
+"Mobile laser scanning has yet to be demonstrated for deriving stem curve and volume from standing trees with sufficient accuracy for supporting forest inventory needs. We tested a new approach based on pulse-based backpack mobile laser scanner. 
+The findings are important steps towards future individual-tree-based airborne laser scanning inventories which currently lack cost-efficient and accurate field reference data collection techniques." [@hyyppaAccurateDerivationStem2020]
+
+"excluding disturbed forest areas significantly improves fit statistics of SI prediction models." [@moanDetectingExcludingDisturbed2023]

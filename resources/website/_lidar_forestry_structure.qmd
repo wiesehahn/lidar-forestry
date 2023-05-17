@@ -16,6 +16,12 @@
 "Over the last 20+ years, lidar technology has fundamentally changed the way we observe and describe forest structure, and it will continue to impact the ways in which we investigate
 and monitor the relations between forest structure and functions."  [@belandPromotingUseLidar2019]
 
+
+"used the 3D data from mobile laser scanning in real forest stands dominated by European beech (Fagus sylvatica L.) to simulate different silvicultural treatments and assess their impact on the structural complexity and short-term economic return" [@neudamSimulationSilviculturalTreatments2023]
+
+"national ALS data with a point density of 0.91 pulses per square metre, we carried out a classification of boreal forests into silvicultural development classes (DC) used in practical forest management. We conclude that the dataset is adequate for discriminating multilayered forests from even-aged ones." [@valbuenaClassificationMultilayeredForest2016]
+
+
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 
