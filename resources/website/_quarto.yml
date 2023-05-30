@@ -3,10 +3,10 @@ project:
   output-dir: ../../docs
 
 website:
-  title: "Precision Forestry"
+  title: "Lidar for Forestry"
   search: false
   navbar:
-    title: Precision Forestry
+    title: Lidar for Forestry
     left:
       - text: "About"
         href: index.qmd
@@ -21,7 +21,7 @@ website:
 
     right:
       - icon: github
-        href: https://github.com/wiesehahn/precision-forestry
+        href: https://github.com/wiesehahn/lidar-forestry
 
 
   page-footer:

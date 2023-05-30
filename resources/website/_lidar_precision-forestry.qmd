@@ -1,0 +1,12 @@
+
+Precision forestry (Smart Forestry) is a method of managing forests using advanced technologies such as GPS, GIS, remote sensing, and other digital tools to gather data about the forest and make informed decisions about management. The goal of precision forestry is to improve the efficiency and effectiveness of forest management by using data to optimize growth, yield, and sustainability of the forest while reducing costs and increasing profitability. This may include tasks such as mapping the forest, identifying high-value trees, monitoring tree growth and health, and planning for thinning and harvest operations.
+
+"During the past decade in forest mapping and monitoring applications, the ability to acquire spatially accurate, 3D remote-sensing information by means of laser scanning, digital stereo imagery and radar imagery has been a major turning point. These 3D data sets that use single- or multi-temporal point clouds enable a wide range of applications when combined with other geoinformation and logging machine-measured data." [@holopainenOutlookNextGeneration2014]
+
+"Forestry has lagged behind most other industries in the adoption of digital technology." [@choudhryPrecisionForestryRevolution2018]
+
+::: {#fig-precision-forestry}
+![](https://www.mckinsey.com/~/media/mckinsey/industries/paper%20and%20forest%20products/our%20insights/precision%20forestry%20a%20revolution%20in%20the%20woods/png_precision-forestry_ex2-v2.png)
+
+Fifteen promising practices in precision forestry as seen by McKinsey (from @choudhryPrecisionForestryRevolution2018)
+:::

@@ -1,0 +1,17 @@
+Integrate terrestrial data remote sensing data for enhanced inventories. 
+ALS-data provides precise data at longer time intervals (currently federal data is recorded approximately every 10 years). Orthoimagery and derived surface models provide data at intermediate timesteps (federal data is recorded every 2-3 years). And if moderate resoultion data from satellites with high temporal repition rates is integrated we are getting towards a framework for near real-time (living) forest inventories.
+
+Currently, multiple projects are ongoing to derive tree species, forest disturbances and health conditions. These data should not be considered as individual data sets. Instead, it could be combined with each other and with addidional data sources to build components for a digital twin of forests.
+
+::: {#fig-intention-efi}
+![](https://user-images.githubusercontent.com/41429613/216407821-d0036b6c-4467-4826-8d4a-e74bc6fd5269.png)
+
+Enhanced forest inventory for continuous data integration
+:::
+
+
+::: {#fig-intention}
+![](https://academic.oup.com/view-large/figure/390813882/cpac015f2.tif)
+
+Framework for near real-time forest inventory (from  @coopsFrameworkRealtimeForest2023)
+:::
