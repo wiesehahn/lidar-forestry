@@ -25,3 +25,11 @@ for forest operations" [@gorgensAutomatedOperationalLogging2020]
 The findings are important steps towards future individual-tree-based airborne laser scanning inventories which currently lack cost-efficient and accurate field reference data collection techniques." [@hyyppaAccurateDerivationStem2020]
 
 "excluding disturbed forest areas significantly improves fit statistics of SI prediction models." [@moanDetectingExcludingDisturbed2023]
+
+"goal is to inform and enable readers interested in using Airborne Laser Scanning data to characterize, in an operational forest inventory context, large forest areas in a cost-effective manner." [@whiteModelDevelopmentApplication2017]
+
+::: {#fig-enhanced-stand-inventory}
+![](https://www.researchgate.net/profile/Joanne-White/publication/323166566/figure/fig2/AS:593803119448065@1518585104493/Overview-of-the-steps-involved-in-implementing-the-area-based-approach-ABA_W640.jpg)
+
+Ground relief map with vehicle tracks mask (from @bienzBilderkennungssoftwareFurFeinerschliessungen2022)
+:::

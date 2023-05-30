@@ -22,6 +22,8 @@
 "propose a framework for individual tree crown (ITC) segmentation from laser data that focuses on both overstory and understory trees. 
 achieve ITC segmentation for forests with various structural attributes. The results also illustrate the potential of using ALS data to delineate low vegetation." [@huoLowVegetationIdentification2022]
 
+"two instance segmentation methods, Mask R–CNN and DETR, were applied to precisely delineate single tree crowns using multispectral images and images generated from UAV lidar data." [@derschCompleteTreeCrown2023]
+
 ::: {#fig-itd}
 ![](https://www.wur.nl/upload_mm/7/b/4/40eea042-6806-4bd0-956d-b3650e1139f1_Thesis_Thijs_Koop_61d3acb1_750x400.png)
 
