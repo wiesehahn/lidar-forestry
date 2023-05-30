@@ -21,8 +21,8 @@ Terrain model derived descriptors to support forest decisions (from @assmannEcoD
  
 #### Enhanced forest inventory
 
-{{< include _lidar_enhanced-forest-inventory.qmd >}}
+{{< include _lidar_intention_enhanced-forest-inventory.qmd >}}
 
 #### Precision Forestry
 
-{{< include _lidar_precision-forestry.qmd >}}
+{{< include _lidar_intention_precision-forestry.qmd >}}

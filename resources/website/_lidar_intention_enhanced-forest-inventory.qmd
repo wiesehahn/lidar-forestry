@@ -11,7 +11,7 @@ Enhanced forest inventory for continuous data integration
 
 
 ::: {#fig-intention}
-![](https://academic.oup.com/view-large/figure/390813882/cpac015f2.tif)
+![](https://private-user-images.githubusercontent.com/41429613/241972878-e2bc492b-c34e-4a4d-b57d-e6a990cc03da.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg1NDUxNDc4LCJuYmYiOjE2ODU0NTExNzgsInBhdGgiOiIvNDE0Mjk2MTMvMjQxOTcyODc4LWUyYmM0OTJiLWMzNGUtNGE0ZC1iNTdkLWU2YTk5MGNjMDNkYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDUzMFQxMjUyNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWI1MDBhNDM4MzhmMWYyMGRjNDRhOWVmMjkwMzYxYjM4ZTljODYzNWIxYjQ0MGUyZGY2ZmU5MzFlMmQ4YjlhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.u9eeOXuiMKhi6fmVyojvXUkdi-XfFe-zRuw8wHdxZYA)
 
 Framework for near real-time forest inventory (from  @coopsFrameworkRealtimeForest2023)
 :::
