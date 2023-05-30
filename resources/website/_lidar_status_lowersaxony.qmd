@@ -19,4 +19,4 @@ Since one of the main porpuses of ALS data was originally (and still is) the cre
 Availability of ALS data in Lower Saxony by month of acqusition
 :::
 
-Since 2020 the first regions had a repeated coverage of ALS data. When, how and where areas will be covered by new campaigns remains unclear, as there is no public information on these plans.
+Since 2020 the first regions had a repeated coverage of ALS data. When, how and where areas will be covered by new campaigns remains unclear, as there is no public information on these plans. According to the [DTM quality standard](https://www.adv-online.de/AdV-Produkte/Standards-und-Produktblaetter/Standards-der-Geotopographie/binarywriterservlet?imgUid=2b14073e-de6b-1f71-96e7-436303dd7d12&uBasVariant=11111111-1111-1111-1111-111111111111) there has to be a timeliness of less than 10 years for terrain models, however personal information suggests that additional data is assessed based on the financial scope.  
