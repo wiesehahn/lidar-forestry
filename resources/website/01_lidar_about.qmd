@@ -35,12 +35,12 @@ Typical area coverage (adapted from [@belandPromotingUseLidar2019])
 
 
 ::: {#fig-sensor-platforms-comparison}
-![](https://natural-resources.canada.ca/sites/nrcan/files/Geoscience/acquisition-lidar-avion.png)
+![](https://carbomap.files.wordpress.com/2014/02/frame1415.png)
 
-ALS data acquisition
+Lidar data acquisition
 :::
 
-::: {#fig-sensor-platforms-comparison}
+::: {#fig-sensor-platforms-comparison-pointclouds}
 ![](http://k1z.blog.uni-heidelberg.de/files/2021/07/tree_pc_comparison.png)
 
 Comparison of point clouds collected from different sensors

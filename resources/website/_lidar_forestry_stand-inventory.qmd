@@ -3,10 +3,6 @@
 
 Integration of Photo Interpreted and LIDAR Attributes Into a Polygonal Forest Inventory Framework (https://bermane.github.io/ontario-inventory/)
 
-"map Site Index over large areas of forest automatically, depicting forest productivity at a much finer spatial resolution than what is common in operational inventories." [@noordermeerPredictingMappingSite2020]
-
-"an approach to develop Site Index models from ALS data" [@tompalskiModelingSiteIndex2022]
-
 "the degree of transferability depends more on the attribute being modelled or the modeling approach applied, and less on the characteristics of the point cloud data." [@tompalskiDemonstratingTransferabilityForest2019]
 
 "dense Laser scanning-based inventory provided more accurate stand estimates than field-based demonstrations" [@perssonTwophaseForestInventory2022]
@@ -23,8 +19,6 @@ for forest operations" [@gorgensAutomatedOperationalLogging2020]
 
 "Mobile laser scanning has yet to be demonstrated for deriving stem curve and volume from standing trees with sufficient accuracy for supporting forest inventory needs. We tested a new approach based on pulse-based backpack mobile laser scanner. 
 The findings are important steps towards future individual-tree-based airborne laser scanning inventories which currently lack cost-efficient and accurate field reference data collection techniques." [@hyyppaAccurateDerivationStem2020]
-
-"excluding disturbed forest areas significantly improves fit statistics of SI prediction models." [@moanDetectingExcludingDisturbed2023]
 
 "goal is to inform and enable readers interested in using Airborne Laser Scanning data to characterize, in an operational forest inventory context, large forest areas in a cost-effective manner." [@whiteModelDevelopmentApplication2017]
 

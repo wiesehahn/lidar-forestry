@@ -9,3 +9,5 @@
 
 "Deciduous trees displayed substantial between-species variation that was linked with differences in branching pattern, leaf orientation and bark reflectance.
 Our results provide new insights for enhancing tree species identification by using WF LiDAR and for LiDAR time-series analysis of vegetation." [@korpelaInfluencePhenologyWaveform2023]
+
+"the addition of 3D derivatives (from LiDAR or photogrammetry) could help segregate between different species if these species have different architectural properties." [@camarrettaMonitoringForestStructure2020]

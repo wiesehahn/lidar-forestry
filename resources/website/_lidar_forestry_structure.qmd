@@ -21,6 +21,7 @@ and monitor the relations between forest structure and functions."  [@belandProm
 
 "national ALS data with a point density of 0.91 pulses per square metre, we carried out a classification of boreal forests into silvicultural development classes (DC) used in practical forest management. We conclude that the dataset is adequate for discriminating multilayered forests from even-aged ones." [@valbuenaClassificationMultilayeredForest2016]
 
+"LiDAR sensors, can provide very detailed vertical and horizontal information on canopy structure and layering" [@camarrettaMonitoringForestStructure2020]
 
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)

@@ -1,7 +1,10 @@
 
-## Lidar data in forestry
+## Scientific advances
 
 {{< include _lidar_forestry_publications.qmd >}}
+
+
+## Applications
 
 {{< include _lidar_forestry_geomorphology.qmd >}}
 
@@ -33,6 +36,8 @@
 
 {{< include _lidar_forestry_stand-inventory.qmd >}}
 
+{{< include _lidar_forestry_site-index.qmd >}}
+
 {{< include _lidar_forestry_shading.qmd >}}
 
 {{< include _lidar_forestry_single-photon-lidar.qmd >}}
@@ -44,16 +49,3 @@
 {{< include _lidar_forestry_in-practice.qmd >}}
 
 {{< include _lidar_forestry_public-relation.qmd >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
