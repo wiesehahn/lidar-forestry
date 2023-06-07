@@ -41,3 +41,5 @@ Image-based point clouds primarily characterize the outer envelope of the forest
 
 Comparison of ALS- and image-based canopy height model (from @whiteUtilityImageBasedPoint2013)
 :::
+
+Recent advances in computer sciences "demonstrate the potential of large-scale mapping and monitoring of tree height" from aerial imagery using U-NET (without overlap and image matching) [@wagnerSubMeterTreeHeight2023]
