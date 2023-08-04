@@ -17,6 +17,11 @@ Although optical and airborne LiDAR are unable to fully capture understorey tree
 "accounted for uncertainties in both the individual tree-level biomass models and the models linking plot level biomass predictions with LiDAR metrics.
 75% of the mean square error was due to the uncertainty associated with tree-level models." [@saarelaMappingAbovegroundBiomass2020]
 
+"ground filtering should be a carefully considered decision when mapping forest AGB, particularly when mapping heterogeneous and highly fragmented landscapes" [@mahoneyFilteringGroundNoise2022]
+
+"Estimating the above-ground biomass in forests using airborne laser scanning (ALS) is now an operational practice in Northern Europe and is being adopted in many parts of the world.
+ALS data can be used indirectly through a chain of models to estimate soil carbon changes in addition to changes in biomass at the primary level of forest management, namely the forest stands." [@strimbuEstimatingBiomassSoil2023]
+
 ::: {#fig-cwd}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13021-016-0048-7/MediaObjects/13021_2016_48_Fig5_HTML.gif?as=webp)
 

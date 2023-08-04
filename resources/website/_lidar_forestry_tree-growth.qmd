@@ -19,6 +19,8 @@ Using repeat airborne LiDAR to map the growth of individual trees and forest sta
 
 "This study explored the use of point cloud-derived forest inventory information, representing two points in time, to find the best matching yield curve at a 20 by 20 m cell level to support growth simulation modelling." [@tompalskiCombiningMultiDateAirborne2018]
 
+"used a combination of fire behavior and heat flux metrics, along with multitemporal field and ALS measurements to quantify fire intensity impacts on mature tree height growth" [@sparksIntegratingActiveFire2023]
+
 ::: {#fig-tree-growth1}
 ![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40725-021-00139-6/MediaObjects/40725_2021_139_Fig1_HTML.png?as=webp)
 

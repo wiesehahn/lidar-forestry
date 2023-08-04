@@ -23,6 +23,9 @@ and monitor the relations between forest structure and functions."  [@belandProm
 
 "LiDAR sensors, can provide very detailed vertical and horizontal information on canopy structure and layering" [@camarrettaMonitoringForestStructure2020]
 
+"used single-photon LiDAR data to automate the mapping of vertical stand layering in a temperate mixedwood forest with a variety of forest types and vertical complexities." [@pennerAutomatedCharacterizationForest2023]
+
+
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 

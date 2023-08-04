@@ -14,8 +14,13 @@
 - [GRASSGIS](https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017))
   GRASS GIS offers, besides other things, numerous analytical tools for point clouds
 - [QGIS](https://www.qgis.org/de/site/)
+  supports Pointcloud processing (through PDAL)
 - [VOSTOK - The Voxel Octree Solar Toolkit](https://doi.org/10.11588/data/QNA02B)
   command-line tool to compute a detailed model of incoming solar radiation distribution on a patch of land, including structures like buildings and vegetation, represented by a 3D point cloud data set
+- [Segment-lidar](https://github.com/hobuinc/segment-lidar)
+  Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
+- [LAPIS](https://github.com/jontkane/Lapis)
+  "an open-source program optimized for processing aerial lidar for forestry applications" 
 
 #### RStats
 
