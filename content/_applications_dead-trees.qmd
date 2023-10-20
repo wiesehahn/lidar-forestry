@@ -1,0 +1,8 @@
+
+### Standing dead trees
+
+> Among the available RS techniques, only the airborne laser scanner (ALS) enables dead tree detection at the single tree level with high accuracy. [@kaminskaSpeciesrelatedSingleDead2018]
+
+> demonstrates the feasibility of large-scale and high-accuracy mapping of single conifers, broadleaf trees, and standing dead trees using lidar and aerial imagery.  [@krzystekLargeScaleMappingTree2020]
+
+> ALS data can be used to separate disturbed from undisturbed forest areas with moderate to high accuracy in complex temperate mixedwood forests [@moanDetectingExcludingDisturbed2023]

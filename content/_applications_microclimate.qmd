@@ -1,0 +1,12 @@
+
+### Microclimate
+
+> linking microclimate measurements with remote sensing data on key predictors of microclimate
+spatially continuous structural or spectral data on vegetation and terrain structures can be obtained from ... e.g., thermal imaging or lidar [@kemppinenjuliaMicroclimateInseparablePart2023]
+
+> used LiDAR for predicting summer temperature offsets in a mountain forest landscape. 
+Forest canopy openness and elevation were most important for predicting temperature offsets. [@vandewieleMappingSpatialMicroclimate2023]
+
+> Airborne LiDAR is ideal to predict forest thermal environment at a high resolution.
+Forest structure explained 91% of microclimate variability at a 10-m resolution.
+We mapped the buffering or amplification effect of forest on microclimate temperature. [@grilUsingAirborneLiDAR2023]

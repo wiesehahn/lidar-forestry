@@ -1,0 +1,6 @@
+
+### Single Photon Lidar under Forest Conditions
+
+> forest variables can be estimated with estimation accuracies similar or slightly higher using a single photon lidar system operated from high altitude (3800 m), compared to estimates from a conventional system, with the same point density but operated from low altitude (400 m). An advantage of the SPL100 system appears to be a better ability to penetrate dense canopies. [@wastlundForestVariableEstimation2018]
+
+[@brownEvaluationSPL100Single2020; @queinnecDevelopingForestInventory2022; @whiteEvaluatingCapacitySingle2021]

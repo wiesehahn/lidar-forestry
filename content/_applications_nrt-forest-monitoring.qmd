@@ -1,0 +1,4 @@
+
+### Near Real-Time Forest Monitoring
+
+> build on existing applications of ALS-derived enhanced inventories and integrate them with data from satellite constellations of free and open, analysis-ready moderate spatial resolution imagery [@coopsFrameworkRealtimeForest2023]

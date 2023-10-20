@@ -1,0 +1,17 @@
+
+### Forest track detection
+
+Project IntelliWay – Intelligente Wege – Condition Monitoring and Predictive Maintenance for forest tracks (https://kwf2020.kwf-online.de/portfolio/intelliway/)
+
+> [ALSroads](https://github.com/Jean-Romain/ALSroads) provides tools to relocate, measure and estimate the state of forestry roads from an inaccurate map. 
+> It addresses the problem of the automatic updating, fixing, and enhancement of vectorial forestry road maps over large landscapes [@rousselCorrectionUpdateEnhancement2022]
+
+> addresses the limitations of raster-based automatic forest road extraction and presents a method for producing a topologically accurate vectorial road network. [@rousselVectorialTopologicallyValid2023]
+
+> We use airborne laser scanning (ALS), to facilitate the identification of forest roads across densely forested landscapes. We categorized roads into four classes based on driveable width, edge vegetation, as well as surface and edge degradation as derived from high-density Single Photon LiDAR (SPL) data. [@morleyUpdatingForestRoad2023]
+
+::: {#fig-track-detection}
+![](https://ars.els-cdn.com/content/image/1-s2.0-S1569843222002084-gr6_lrg.jpg)
+
+Slice of the point-cloud perpendicularly to the road centreline (from @rousselCorrectionUpdateEnhancement2022)
+:::

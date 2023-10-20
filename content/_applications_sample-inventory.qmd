@@ -1,0 +1,11 @@
+
+### Forest Sampling Inventory (Management Inventory)
+
+> The increased availability of wall-to-wall ALS data is promoting the concept of structurally guided sampling (SGS), where ALS metrics are used as an auxiliary data source driving stratification and sampling within management-level forest inventories. [@goodbodySgsRStructurallyGuided2023]
+
+> study demonstrates the utility of the SPL100 for the complete development of a forest inventory over large forest areas, from ground plot establishment through to the production of forest attribute estimates. [@queinnecDevelopingForestInventory2022]
+
+> for equal area square and circular plots, there is no evidence of systematic prediction error when a model fitted to one shape is used to predict for the other shape. [@packalenCircularSquarePlots2023]
+
+> introduce a workflow to estimate the pixel-level mean and variance in AGB maps by propagating uncertainty from a lidar-based model using small plots [@cushmanSmallFieldPlots2023]
+

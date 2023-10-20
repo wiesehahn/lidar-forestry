@@ -1,0 +1,14 @@
+
+### Synthetic data
+
+"synthetic data may be used to develop new or refine existing ALS-based forest inventory methods, to systematically investigate the relationship between point cloud metrics and forest inventory variables and to analyse how this relationship is affected by laser scanning acquisition settings and field reference data characteristics." [@schaferGeneratingSyntheticLaser2023]
+
+::: {#fig-tree-wind-model}
+![](https://pbs.twimg.com/media/Ft_1HdLXgAEsJb_?format=jpg&name=medium)
+
+Synthetic forest point cloud (from @schaferGeneratingSyntheticLaser2023)
+:::
+
+
+### Monitoring Network
+"demonstrate the potential of high-frequency ground-based laser scanning to systematically monitor structural changes in vegetation" [@caldersStrucNetGlobalNetwork2023]

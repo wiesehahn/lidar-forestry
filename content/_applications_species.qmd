@@ -1,0 +1,17 @@
+
+### Tree species mapping
+
+> mapping of tree species—subdivided into conifers and broadleaf trees [@krzystekLargeScaleMappingTree2020]
+
+> This paper compares the same method of tree species identification (at the individual crown level) across three different types of airborne laser scanning systems (ALS): two linear lidar systems (monospectral and multispectral) and one single-photon lidar (SPL) system. The additional intensity features that are provided by multispectral ALS appear to be more beneficial to overall accuracy than the higher point density of SPL. [@prieurComparisonThreeAirborne2021]
+
+> laser scanning data was used to mask pixels with low or no vegetation [@trierTreeSpeciesClassification2018]
+
+> Deciduous trees displayed substantial between-species variation that was linked with differences in branching pattern, leaf orientation and bark reflectance.
+Our results provide new insights for enhancing tree species identification by using WF LiDAR and for LiDAR time-series analysis of vegetation. [@korpelaInfluencePhenologyWaveform2023]
+
+> the addition of 3D derivatives (from LiDAR or photogrammetry) could help segregate between different species if these species have different architectural properties. [@camarrettaMonitoringForestStructure2020]
+
+> objective of this study was to map dominant species groups across a large (>580,000 ha) boreal forest by combining area-based and individual tree metrics derived from single photon LiDAR data with multispectral information derived from Sentinel-2 imagery [@queinnecMappingDominantBoreal2023]
+
+> presents a method of tree species classification using individual tree metrics derived from a three-dimensional point cloud from unmanned aerial vehicle laser scanning (ULS) [@slavikSpatialAnalysisDense2023]

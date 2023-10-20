@@ -1,0 +1,25 @@
+## Intention
+
+### Short term 
+
+#### Derive geodata layers to support forest management decisions
+
+ALS (and DAP) data has enormous potential in the fields of forestry and ecology, but "despite the increasing availability of such data at regional and national scales, the average ecologist has been limited in accessing them due to high requirements on computing power and remote sensing knowledge", as @assmannEcoDesDK15HighresolutionEcological2022 descibe it. Hence, the availability of selected descriptors/indices of interest for forestry and ecological studies would be a big asset in these fields for researchers and practitioners. 
+High-resolution measures including vegetation measures such as height, structure and density, as well as topographic and hydrologic descriptors could be provided ready-to-use in standardized formats.
+
+::: {#fig-intention-baselayers}
+![](https://essd.copernicus.org/articles/14/823/2022/essd-14-823-2022-f02-web.png)
+
+Terrain model derived descriptors to support forest decisions (from @assmannEcoDesDK15HighresolutionEcological2022)
+:::
+
+
+### Long term
+
+#### Enhanced forest inventory
+
+{{< include _intention_enhanced-forest-inventory.qmd >}}
+
+#### Precision Forestry
+
+{{< include _intention_precision-forestry.qmd >}}

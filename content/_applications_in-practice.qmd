@@ -1,0 +1,10 @@
+
+### Lidar data in practice
+
+> A wall-to-wall forest attribute map was produced for all of Sweden. ALS data were combined with field data from the Swedish NFI. [@nilssonNationwideForestAttribute2017]
+
+> found height, aboveground biomass and volume to be the most commonly extended forest attributes, followed by canopy cover, basal area and stand complexity. [@coopsModellingLidarderivedEstimates2021]
+
+@belandPromotingUseLidar2019 provide an overview on current and potential products derived from lidar data in the field of forest research. According to them, metrics for ground (slope and aspect), canopy height and canopy cover are operational products derived from ALS data and metrics on leaf area distribution, leaf area index, above ground biomnass and aerodynamic parameters are operational but require further accuracy assessments. 
+
+https://www.wbv-nordschwarzwald.de/3d-forstinventur-projekt

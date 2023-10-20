@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Lidar for Forestry"
+  description: "Documentation about Lidar data for forestry"
+  site-url: https://github.com/wiesehahn/lidar-forestry/index.html
+  repo-url: https://github.com/wiesehahn/lidar-forestry
+  open-graph: true
+  twitter-card:
+    creator: '@JensWiesehahn'
+  search: false
+  navbar:
+  # title: false
+    logo: /images/logo.png
+    logo-alt: "Website logo image"
+    # logo-href: https://wiesehahn.github.io/
+    collapse: true
+    
+    left:
+      - text: "About"
+        href: content/00_about.qmd
+      - text: "Lidar"
+        href: content/01_lidar.qmd
+      - text: "Data Availability"
+        href: content/02_data.qmd
+      - text: "Scientific Advances"
+        href: content/03_scientific-advances.qmd
+      - text: "Applications"
+        href: content/04_applications.qmd
+      
+    right:
+      - icon: triangle-fill
+        href: https://wiesehahn.github.io
+      - icon: github
+        href: https://github.com/wiesehahn
+      - icon: twitter
+        href: https://twitter.com/JensWiesehahn
+      - icon: mastodon
+        href: https://elk.zone/fosstodon.org/@JensWiesehahn
+      - icon: envelope-fill
+        href: mailto::wiesehahn.jens@gmail.com
+  
+  page-footer:
+    border: false
+    left: "© 2023, [Jens Wiesehahn](https://wiesehahn.github.io/)"
+    right:
+      - icon: github
+        href: https://github.com/wiesehahn/lidar-forestry
+
+format:
+  html: # (https://quarto.org/docs/reference/formats/html.html)
+    theme: [litera, assets/custom_theme.scss]
+    mainfont: Nunito
+    toc: true
+    smooth-scroll: true
+    highlight: arrow
+    page-layout: full
+    code-copy: hover
+    code-overflow: wrap
+    code-line-numbers: false
+    grid:
+      sidebar-width: 250px
+      body-width: 1200px
+      margin-width: 250px
+
+tbl-cap-location: top
+
+bibliography: ../references.bib
