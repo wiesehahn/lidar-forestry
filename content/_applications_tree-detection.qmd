@@ -17,6 +17,8 @@
 
 > successfully apply a lidar-based method based on the 3D adaptive mean shift (AMS3D) technique to estimate individual tree size and density. [@ferrazLidarDetectionIndividual2016]
 
+> ITD accuracy was high in stands with lower canopy cover and lower in stands with higher canopy cover, mainly owing to omission of suppressed trees that were not detected under the dominant tree canopy. @sparksAccuracyLiDARBasedIndividual2021
+
 ::: {#fig-itd}
 ![](https://www.wur.nl/upload_mm/7/b/4/40eea042-6806-4bd0-956d-b3650e1139f1_Thesis_Thijs_Koop_61d3acb1_750x400.png)
 
