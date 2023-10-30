@@ -20,7 +20,7 @@ We encourage plant and soil ecologists to use LiDAR data to account for time-lag
 
 > present a new spatially continuous method to map regional patterns of tree functional diversity using combined laser scanning and imaging spectroscopy. [@schneiderMappingFunctionalDiversity2017]
 
-
+> The main objective of this review was to summarise the use of airborne laser scanning (ALS) data in biodiversity-related assessment of forests. Topics that have received the most attention were related to animal ecology, assessment of dead trees and tree species diversity measures.Relevant ALS variables were found to be case-specific, so variables varied widely between forest biodiversity studies. [@toivonenAssessingBiodiversityUsing2023]
 
 ::: {#fig-physiological-traits}
 ![](https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-030-33157-3_4/MediaObjects/441250_1_En_4_Fig7_HTML.png?as=webp)
