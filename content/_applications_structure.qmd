@@ -26,6 +26,10 @@ and monitor the relations between forest structure and functions.  [@belandPromo
 
 > To identify forests with high conservation value, we used vertical and horizontal variables derived from airborne laser scanning (ALS) data, along with NFI plot measurements. [@jutras-perreaultDetectingPresenceNatural2023]
 
+> Lidar’s capabilities to measure vegetation structure in detail across wide areas are shifting the paradigm of how forests are analyzed, and the technology is now being adopted as a foundational data collection method for forest management in the same way aerial photography was more than half a century ago. [@kaneLidarSEyeView2022]
+
+> review the measurement of forest structure and structural diversity [@atkinsIntegratingForestStructural2023]
+
 ::: {#fig-forest-structure}
 ![](https://onlinelibrary.wiley.com/cms/asset/a1635e91-2b86-4c09-8fdd-e7a43ee1ca9a/ddi13644-fig-0001-m.jpg)
 

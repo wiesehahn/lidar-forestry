@@ -24,6 +24,8 @@ ALS data can be used indirectly through a chain of models to estimate soil carbo
 
 > Dual-wavelength ALS was used in a two-step methodology to classify species, and estimate species-specific stem volume at the level of individual tree crowns. Demonstrate the added benefit of the green channel for the estimation of both species composition and species-specific stem volumes. [@axelssonUseDualwavelengthAirborne2023]
 
+> errors in species composition have less impact on individual tree volume estimates than errors in height measurement. The implications of these results are that, with very accurate estimates of height provided by ALS and knowledge of what dominant species is expected in a stand, accurate estimates of volume can be generated in the absence of more detailed species composition information. [@tompalskiSimulatingImpactsError2014]
+
 
 ::: {#fig-cwd}
 ![](https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13021-016-0048-7/MediaObjects/13021_2016_48_Fig5_HTML.gif?as=webp)

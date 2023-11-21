@@ -39,3 +39,5 @@ achieve ITC segmentation for forests with various structural attributes. The res
 
 > compared the performance of four widely used tree segmentation algorithms. 
 All algorithms performed reasonably well on the canopy trees. However, all algorithms failed to accurately segment the understory trees. [@caoBenchmarkingAirborneLaser2023]
+
+> present a novel ITC segmentation approach based on the YOLOv5 CNN. [@strakerInstanceSegmentationIndividual2023]
