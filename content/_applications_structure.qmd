@@ -44,6 +44,8 @@ Variables to describe the vertical structure of the vegetation (from @moudryVege
 > compared the performance of LiDAR and DAP data for characterizing canopy openings. 
 recommend that operational use of DAP in forests be limited to mapping large canopy openings [@dietmaierComparisonLiDARDigital2019]
 
+> DAP data do not provide analogous results to ALS data for canopy gap detection and mapping, and that ALS data enable markedly superior accuracy and detailed gap characterizations. [@whiteComparisonAirborneLaser2018]
+
 ::: {#fig-canopy-gaps}
 ![](https://raw.githubusercontent.com/carlos-alberto-silva/ForestGapR/master/readme/fig_4.png)
 
