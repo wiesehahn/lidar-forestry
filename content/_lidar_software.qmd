@@ -26,6 +26,7 @@
 
 - [lidR package](https://github.com/r-lidar/lidR)
   An R package for analysis of Airborne Laser Scanning (ALS) data [@rousselLidRPackageAnalysis2020]
+- [https://github.com/ptompalski/lidRmetrics](lidRmetrics) Additional point cloud metrics to use with *_metric functions in lidR.
 - [rLIDAR package](https://github.com/carlos-alberto-silva/rLiDAR)
   LiDAR Data Processing and Visualization 
 - [canopyLazR package](https://github.com/akamoske/canopyLazR)
@@ -40,6 +41,7 @@
   "Road corrections and measurements from ALS data "
 - [Forest Structural Complexity Tool](https://github.com/SKrisanski/FSCT)
   plot scale measurements to be extracted automatically from most high-resolution forest point clouds from a variety of sensor sources
+- [lasR](https://github.com/r-lidar/lasR)R Package for Fast Airborne LiDAR Data Processing
 
 #### Apps
 
