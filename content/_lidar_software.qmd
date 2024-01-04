@@ -21,6 +21,8 @@
   Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [LAPIS](https://github.com/jontkane/Lapis)
   "an open-source program optimized for processing aerial lidar for forestry applications" 
+- [Terrascan](https://terrasolid.com/products/terrascan/)
+  "TerraScan is the main application in the Terrasolid Software family for managing and processing all types of point clouds"
 
 #### RStats
 

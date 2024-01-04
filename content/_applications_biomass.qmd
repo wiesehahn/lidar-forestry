@@ -3,6 +3,8 @@
 
 > Laser scanning reveals potential underestimation of biomass carbon in temperate forest [@caldersLaserScanningReveals2022].
 
+> Current allometry has low sample size and excludes large trees. Terrestrial LiDAR precisely and non-destructively estimates tree biomass. We developed high sample size species-specific allometry with terrestrial LiDAR. [@stovallDevelopingNondestructiveSpecies2023]
+
 > even with the highest average pulse density of 11 pulses/m², at least 25% of the forest canopy volume remains occluded in the ALS acquisition under leaf-on conditions [@kukenbrinkQuantificationHiddenCanopy2017]
 
 > practical solutions to challenges faced in using spatiotemporal patchworks of LiDAR to meet growing needs for AGB prediction and mapping in support of broad-scale applications in forest carbon accounting and ecosystem stewardship [@johnsonFineresolutionLandscapescaleBiomass2022]
