@@ -24,6 +24,12 @@ The findings are important steps towards future individual-tree-based airborne l
 
 > goal is to inform and enable readers interested in using Airborne Laser Scanning data to characterize, in an operational forest inventory context, large forest areas in a cost-effective manner. [@whiteModelDevelopmentApplication2017]
 
+> Use of auxiliary ALS metrics substantially improved sampling efficiency. methods can aid practitioners in planning cost-effective and statistically rigorous forest inventory campaigns, particularly in determining where to re-sample within an existing plot network. [@goodbodyAirborneLaserScanning2023]
+
+> compared four inventory approaches for imputing stem frequency distributions from airborne laser scanner (ALS) data.
+> Accuracies obtained using the semi-ITC, ABA and EABA inventory approaches were significantly better than accuracies obtained using the ITC approach. [@noordermeerImputingStemFrequency2023]
+
+
 ::: {#fig-enhanced-stand-inventory}
 ![](https://www.researchgate.net/profile/Joanne-White/publication/323166566/figure/fig2/AS:593803119448065@1518585104493/Overview-of-the-steps-involved-in-implementing-the-area-based-approach-ABA_W640.jpg)
 

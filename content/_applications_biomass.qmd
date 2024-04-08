@@ -3,6 +3,8 @@
 
 > Laser scanning reveals potential underestimation of biomass carbon in temperate forest [@caldersLaserScanningReveals2022].
 
+> Current allometry has low sample size and excludes large trees. Terrestrial LiDAR precisely and non-destructively estimates tree biomass. We developed high sample size species-specific allometry with terrestrial LiDAR. [@stovallDevelopingNondestructiveSpecies2023]
+
 > even with the highest average pulse density of 11 pulses/m², at least 25% of the forest canopy volume remains occluded in the ALS acquisition under leaf-on conditions [@kukenbrinkQuantificationHiddenCanopy2017]
 
 > practical solutions to challenges faced in using spatiotemporal patchworks of LiDAR to meet growing needs for AGB prediction and mapping in support of broad-scale applications in forest carbon accounting and ecosystem stewardship [@johnsonFineresolutionLandscapescaleBiomass2022]
@@ -23,6 +25,12 @@ Although optical and airborne LiDAR are unable to fully capture understorey tree
 ALS data can be used indirectly through a chain of models to estimate soil carbon changes in addition to changes in biomass at the primary level of forest management, namely the forest stands. [@strimbuEstimatingBiomassSoil2023]
 
 > Dual-wavelength ALS was used in a two-step methodology to classify species, and estimate species-specific stem volume at the level of individual tree crowns. Demonstrate the added benefit of the green channel for the estimation of both species composition and species-specific stem volumes. [@axelssonUseDualwavelengthAirborne2023]
+
+> errors in species composition have less impact on individual tree volume estimates than errors in height measurement. The implications of these results are that, with very accurate estimates of height provided by ALS and knowledge of what dominant species is expected in a stand, accurate estimates of volume can be generated in the absence of more detailed species composition information. [@tompalskiSimulatingImpactsError2014]
+
+> simulated data cannot yet replace real data but they can be helpful in some sites to extend training datasets when only a limited amount of real data is available. [@schaferAssessingPotentialSynthetic2023]
+
+> this study showcases the effectiveness of additive tree AGB models and highlights the potential of DNNs for enhanced AGB estimation. Compared deep learning and random forest models in terms of biomass estimation. Deep neural networks provided small performance gain compared to random forest. [@seelyModellingTreeBiomass2023]
 
 
 ::: {#fig-cwd}

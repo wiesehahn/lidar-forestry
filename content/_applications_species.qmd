@@ -17,3 +17,5 @@ Our results provide new insights for enhancing tree species identification by us
 > presents a method of tree species classification using individual tree metrics derived from a three-dimensional point cloud from unmanned aerial vehicle laser scanning (ULS) [@slavikSpatialAnalysisDense2023]
 
 > The fusion of spectral information from optical images and the structural information provided by ALS was highly advantageous in studies where tree species were considered. [@toivonenAssessingBiodiversityUsing2023]
+
+> estimate tree species compositions in a Canadian boreal forest environment using ALS data and point-based deep learning techniques. [@murrayEstimatingTreeSpecies2024]

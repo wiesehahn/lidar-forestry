@@ -8,3 +8,6 @@ With precise forest structure and height information from lidar data it is possi
 > LiDAR can be a suitable tool for modeling solar radiation at various levels and producing continuous information across large forested areas with complicated structure and species composition. [@olpendaEstimationSubcanopySolar2019]
 
 > light detection and ranging has, so far, been preferably used for modeling light under tree canopies. Laser system’s capability of generating 3D canopy structure at high spatial resolution makes it a reasonable choice as a source of spatial information about light condition in various parts of forest ecosystem. [@olpendaModelingSolarRadiation2018]
+
+> structural metrics derived from Airborne Laser Scanning (ALS) data, serving as an empirical gold-standard in modelling subcanopy light regimes. 
+> a combination of Sentinel-1 and Sentinel-2 time series has the potential to map subcanopy light conditions spatially and temporally independent of the availability of high-resolution ALS data [@glasmannMappingSubcanopyLight2023]
