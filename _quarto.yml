@@ -5,7 +5,7 @@ project:
 website:
   title: "Lidar for Forestry"
   description: "Documentation about Lidar data for forestry"
-  site-url: https://github.com/wiesehahn/lidar-forestry/index.html
+  site-url: https://wiesehahn.github.io/lidar-forestry
   repo-url: https://github.com/wiesehahn/lidar-forestry
   open-graph: true
   twitter-card:
