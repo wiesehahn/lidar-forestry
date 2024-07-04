@@ -1,5 +1,4 @@
 ---
-title: data
 toc-depth: 4
 toc-expand: 5
 ---
