@@ -5,6 +5,8 @@
 
 > found height, aboveground biomass and volume to be the most commonly extended forest attributes, followed by canopy cover, basal area and stand complexity. [@coopsModellingLidarderivedEstimates2021]
 
-@belandPromotingUseLidar2019 provide an overview on current and potential products derived from lidar data in the field of forest research. According to them, metrics for ground (slope and aspect), canopy height and canopy cover are operational products derived from ALS data and metrics on leaf area distribution, leaf area index, above ground biomnass and aerodynamic parameters are operational but require further accuracy assessments. 
+@belandPromotingUseLidar2019 provide an overview on current and potential products derived from lidar data in the field of forest research. According to them, metrics for ground (slope and aspect), canopy height and canopy cover are operational products derived from ALS data and metrics on leaf area distribution, leaf area index, above ground biomass and aerodynamic parameters are operational but require further accuracy assessments. 
+
+> processed the AHN3 point cloud (∼16 TB uncompressed data volume) into 10 m resolution raster layers of ecosystem structure at a national extent, using a novel high-throughput workflow called ‘Laserfarm’ and a cluster of virtual machines with fast central processing units, high memory nodes and associated big data storage for managing the large amount of files. The raster layers (available as GeoTIFF files) capture 25 LiDAR metrics of vegetation structure, including ecosystem height (e.g. 95th percentiles of normalized z), ecosystem cover (e.g. pulse penetration ratio, canopy cover, and density of vegetation points within defined height layers), and ecosystem structural complexity (e.g. skewness and variability of vertical vegetation point distribution). [@kisslingCountrywideDataEcosystem2023]
 
 https://www.wbv-nordschwarzwald.de/3d-forstinventur-projekt

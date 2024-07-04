@@ -3,32 +3,41 @@
 
 #### Various
 
-- [Whiteboxtools](https://www.whiteboxgeo.com/)
+- [WhiteboxTools](https://www.whiteboxgeo.com/)
   "advanced open-source geospatial data analysis platform"
-- [LAStools](https://rapidlasso.com/lastools/)
+- [LAStools](https://rapidlasso.de/)
   "a collection of highly efficient, batch-scriptable, multicore command line tools to classify, tile, convert, filter, raster, triangulate, contour, clip, and polygonize LiDAR data"
 - [PDAL](https://pdal.io/en/latest/)
-  "library for translating and manipulating point cloud data"
+  "C++ library for translating and manipulating point cloud data"
 - [CloudCompare](https://cloudcompare.org/)
   "3D point cloud and mesh processing software"
-- [GRASSGIS](https://grasswiki.osgeo.org/wiki/Processing_lidar_and_UAV_point_clouds_in_GRASS_GIS_(workshop_at_FOSS4G_Boston_2017))
+- [GRASS GIS](https://grasswiki.osgeo.org/wiki/LIDAR)
   GRASS GIS offers, besides other things, numerous analytical tools for point clouds
 - [QGIS](https://www.qgis.org/de/site/)
   supports Pointcloud processing (through PDAL)
 - [VOSTOK - The Voxel Octree Solar Toolkit](https://doi.org/10.11588/data/QNA02B)
   command-line tool to compute a detailed model of incoming solar radiation distribution on a patch of land, including structures like buildings and vegetation, represented by a 3D point cloud data set
-- [Segment-lidar](https://github.com/hobuinc/segment-lidar)
+- [Segment-lidar](https://github.com/Yarroudh/segment-lidar)
   Python package for segmenting aerial LiDAR data using Segment-Anything Model (SAM) from Meta AI.
 - [LAPIS](https://github.com/jontkane/Lapis)
   "an open-source program optimized for processing aerial lidar for forestry applications" 
-- [Terrascan](https://terrasolid.com/products/terrascan/)
+- [TerraScan](https://terrasolid.com/products/terrascan/)
   "TerraScan is the main application in the Terrasolid Software family for managing and processing all types of point clouds"
+- [FUSION](https://forsys.sefs.uw.edu/fusion/fusion_overview.html)
+  "developed to help researchers understand, explore, and analyze LIDAR data"
+- [Laserchicken](https://github.com/eEcoLiDAR/laserchicken) / [Laserfarm](https://github.com/eEcoLiDAR/Laserfarm) 
+  Toolkit for handling point clouds created using airborne laser scanning (ALS).
+- [CODEM](https://github.com/NCALM-UH/CODEM)
+  Multi-Modal Digital Elevation Model Registration
+- [SilviMetric](https://github.com/hobuinc/silvimetric)
+  open source library and set of command line utilities for extracting point cloud metrics into a TileDB database
+
 
 #### RStats
 
 - [lidR package](https://github.com/r-lidar/lidR)
   An R package for analysis of Airborne Laser Scanning (ALS) data [@rousselLidRPackageAnalysis2020]
-- [https://github.com/ptompalski/lidRmetrics](lidRmetrics) Additional point cloud metrics to use with *_metric functions in lidR.
+- [lidRmetrics package](https://github.com/ptompalski/lidRmetrics) Additional point cloud metrics to use with *_metric functions in lidR.
 - [rLIDAR package](https://github.com/carlos-alberto-silva/rLiDAR)
   LiDAR Data Processing and Visualization 
 - [canopyLazR package](https://github.com/akamoske/canopyLazR)
@@ -43,7 +52,8 @@
   "Road corrections and measurements from ALS data "
 - [Forest Structural Complexity Tool](https://github.com/SKrisanski/FSCT)
   plot scale measurements to be extracted automatically from most high-resolution forest point clouds from a variety of sensor sources
-- [lasR](https://github.com/r-lidar/lasR)R Package for Fast Airborne LiDAR Data Processing
+- [lasR](https://github.com/r-lidar/lasR) R Package for Fast Airborne LiDAR Data Processing
+- [rlas](https://github.com/r-lidar/rlas) R package to read and write las and laz files
 
 #### Apps
 

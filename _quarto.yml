@@ -44,7 +44,7 @@ website:
   
   page-footer:
     border: false
-    left: "© 2023, [Jens Wiesehahn](https://wiesehahn.github.io/)"
+    left: "© 2024, [Jens Wiesehahn](https://wiesehahn.github.io/)"
     right:
       - icon: github
         href: https://github.com/wiesehahn/lidar-forestry
