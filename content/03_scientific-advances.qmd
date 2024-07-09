@@ -20,7 +20,7 @@ Number of publications by year for *(lidar OR laser) AND (forestry OR forest OR 
 ### Researchers
 
 ::: {#fig-publications-network}
-![](/images/scientific-advances_publications_network.png.png)
+![](/images/scientific-advances_publications_network.png)
 
 Network of researchers for *(lidar OR laser) AND (forestry OR forest OR tree)* (from [dimensions.ai](https://app.dimensions.ai/analytics/publication/author/vosviewer?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search))
 :::
