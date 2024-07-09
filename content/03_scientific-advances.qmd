@@ -6,13 +6,13 @@
 ::: {#fig-publications-year}
 ![](/images/scientific-advances_publications_year.png)
 
-Number of publications by year for *(lidar OR laser) AND (forestry OR forest OR tree)* (from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search))
+Number of publications by year for `(lidar OR laser) AND (forestry OR forest OR tree)` (image from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), created on 09.07.2024)
 :::
 
 ::: {#fig-publications-year}
 
 
-Number of publications by year for *(lidar OR laser) AND (forestry OR forest OR tree)* (from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search))
+Number of publications by year for `(lidar OR laser) AND (forestry OR forest OR tree)` (image from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), created on 09.07.2024)
 :::
 
 
@@ -22,10 +22,10 @@ Number of publications by year for *(lidar OR laser) AND (forestry OR forest OR 
 ::: {#fig-publications-network}
 ![](/images/scientific-advances_publications_network.png)
 
-Network of researchers for *(lidar OR laser) AND (forestry OR forest OR tree)* (from [dimensions.ai](https://app.dimensions.ai/analytics/publication/author/vosviewer?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search))
+Network of researchers for `(lidar OR laser) AND (forestry OR forest OR tree)` (image from [dimensions.ai](https://app.dimensions.ai/analytics/publication/author/vosviewer?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), created on 09.07.2024)
 :::
 
-From the top 20 researcher in terms of publications related to `(lidar OR laser) AND (forestry OR forest OR tree)` 18 are from North-America or Scandinavia (according to [dimensions.ai](https://app.dimensions.ai/analytics/publication/author/aggregated?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search)):
+From the top 20 researcher in terms of publications related to `(lidar OR laser) AND (forestry OR forest OR tree)` 18 are from North-America or Scandinavia (according to [dimensions.ai](https://app.dimensions.ai/analytics/publication/author/aggregated?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), on 09.07.2024):
 
 - Finland: 7
 - USA: 6
