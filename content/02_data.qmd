@@ -1,6 +1,7 @@
 ---
 toc-depth: 4
 toc-expand: 5
+output-file: data.html
 ---
 
 ## Current status of ALS data availability

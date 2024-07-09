@@ -1,3 +1,6 @@
+---
+output-file: applications.html
+---
 
 ## Applications
 

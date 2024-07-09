@@ -12,13 +12,6 @@ output-file: scientific-advances.html
 Number of publications by year for `(lidar OR laser) AND (forestry OR forest OR tree)` (image from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), created on 09.07.2024)
 :::
 
-::: {#fig-publications-year}
-
-
-Number of publications by year for `(lidar OR laser) AND (forestry OR forest OR tree)` (image from [dimensions.ai](https://app.dimensions.ai/analytics/publication/overview/timeline?search_mode=content&search_text=(lidar%20OR%20laser)%20AND%20(forestry%20OR%20forest%20OR%20tree)&search_type=kws&search_field=text_search), created on 09.07.2024)
-:::
-
-
 
 ### Researchers
 

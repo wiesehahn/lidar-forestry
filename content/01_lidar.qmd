@@ -1,3 +1,6 @@
+---
+output-file: lidar.html
+---
 
 ## About Lidar data
 Lidar, or Light Detection and Ranging, is a remote sensing technology that uses laser pulses to measure the distance to an object or surface. The data collected by lidar systems is typically in the form of point clouds, which are a set of 3D coordinates representing the location of objects or surfaces in the environment. Lidar data can be used for a variety of applications, including mapping, surveying, navigation, and object detection. One of the key advantages of lidar is its ability to penetrate through obscurants such as fog, smoke and vegetation.
