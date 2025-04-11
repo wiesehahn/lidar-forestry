@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: >-
+  Lidar For Forestry: Background, Availability and Applications of Laser Scanning Data
+message: >-
+  Rendered presentation available at https://wiesehahn.github.io/lidar-forestry/
+type: dataset
+authors:
+  - given-names: Jens
+    family-names: Wiesehahn
+    email: wiesehahn.jens@gmail.com
+    affiliation: Northwest German Forest Research Institute (NW-FVA)
+    orcid: 'https://orcid.org/0000-0002-4482-3012'
+#identifiers:
+#  - type: doi
+#    value: xxx
+repository-code: >-
+  https://github.com/wiesehahn/lidar-forestry
+url: >-
+  https://wiesehahn.github.io/lidar-forestry/presentation
+abstract: >-
+  This website aggregates and synthesizes information about the use of laser scanning data in forestry. It provides general information about lidar data and it's availability. Further we collect and summarise scientific literature to provide a comprehensive overview of the current state of knowledge on lidar's potential use-cases in forestry. The focus is mainly on Airborne Laser Scanning data, with additional consideration of other platforms.
+keywords:
+  - Airborne Laser Scanning
+  - Remote Sensing
+  - Forestry
+  - Data Availability
+  - Review
+license: CC-BY-SA-4.0
+date-released: 2022-04-14
