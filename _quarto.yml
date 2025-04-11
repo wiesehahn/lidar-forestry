@@ -19,7 +19,7 @@ website:
     
     left:
       - text: "About"
-        href: content/00_about.qmd
+        href: content/index.qmd
       - text: "Lidar"
         href: content/01_lidar.qmd
       - text: "Data Availability"

@@ -1,6 +1,6 @@
 ---
 toc: false
-output-file: about.html
+output-file: index.html
 citation: 
   author: Jens Wiesehahn
   title: >-
