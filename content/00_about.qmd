@@ -1,8 +1,22 @@
 ---
 toc: false
 output-file: about.html
+citation: 
+  author: Jens Wiesehahn
+  title: >-
+    Lidar For Forestry: Background, Availability and Applications of Laser Scanning Data
+  url:  https://wiesehahn.github.io/lidar-forestry/
+  abstract: >-
+    This website aggregates and synthesizes information about the use of laser scanning data in forestry. It provides general information about lidar data and it's availability. Further we collect and summarise scientific literature to provide a comprehensive overview of the current state of knowledge on lidar's potential use-cases in forestry. The focus is mainly on Airborne Laser Scanning data, with additional consideration of other platforms.
+  keyword: Airborne Laser Scanning, Remote Sensing, Forestry, Data Availability, Review
+  issued: 2022-04-14
+appendix-cite-as: display
 ---
 
 ## About this project
 
-This side and its underlying Github repository is meant as a personal space to **gather and organize information about research and applications of lidar data for forestry**.  
+This website aggregates and synthesizes information about the use of laser scanning data in forestry. It provides general information about lidar data and it's availability. Further we collect and summarise scientific literature to provide a comprehensive overview of the current state of knowledge on lidar's potential use-cases in forestry. The focus is mainly on Airborne Laser Scanning data, with additional consideration of other platforms.  
+
+<br>
+
+The webside and it's underlying Github repository is meant to gather and organize information as a personal knowledge base. Scientific literature as well as e.g. data resources and software related to lidar data is collected as issues and organized via labels. In this way it is possible to search for e.g. literature which uses ALS data for biomass estimation ([![](https://img.shields.io/badge/literature-28CF9F) ![](https://img.shields.io/badge/ALS-C5DEF5) ![](https://img.shields.io/badge/biomass-F9D0C4)](https://github.com/wiesehahn/lidar-forestry/issues?q=sort%3Aupdated-desc%20label%3AALS%20label%3Aliterature%20label%3Abiomass)). These issues are added to the website irregularly from time to time.
