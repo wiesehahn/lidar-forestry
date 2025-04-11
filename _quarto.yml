@@ -7,9 +7,8 @@ website:
   description: "Documentation about Lidar data for forestry"
   site-url: https://wiesehahn.github.io/lidar-forestry
   repo-url: https://github.com/wiesehahn/lidar-forestry
+  favicon: /images/favicon.png
   open-graph: true
-  twitter-card:
-    creator: '@JensWiesehahn'
   search: false
   navbar:
   # title: false
@@ -35,16 +34,21 @@ website:
         href: https://wiesehahn.github.io
       - icon: github
         href: https://github.com/wiesehahn
-      - icon: twitter
-        href: https://twitter.com/JensWiesehahn
+      #- icon: twitter
+      #  href: https://twitter.com/JensWiesehahn
       - icon: mastodon
         href: https://elk.zone/fosstodon.org/@JensWiesehahn
+        rel: me
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jens-wiesehahn-a35782184/
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: "https://bsky.app/profile/jenswiesehahn.bsky.social"
       - icon: envelope-fill
         href: mailto::wiesehahn.jens@gmail.com
   
   page-footer:
     border: false
-    left: "© 2024, [Jens Wiesehahn](https://wiesehahn.github.io/)"
+    left: "© 2025, [Jens Wiesehahn](https://wiesehahn.github.io/)"
     right:
       - icon: github
         href: https://github.com/wiesehahn/lidar-forestry
