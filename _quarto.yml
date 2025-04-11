@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Lidar for Forestry"
-  description: "Documentation about Lidar data for forestry"
+  description: "Background, Availability and Applications of Laser Scanning Data for Forestry"
   site-url: https://wiesehahn.github.io/lidar-forestry
   repo-url: https://github.com/wiesehahn/lidar-forestry
   favicon: /images/favicon.png
