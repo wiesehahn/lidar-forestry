@@ -1,14 +1,19 @@
 ---
-toc-depth: 4
+toc-depth: 3
 toc-expand: 5
 output-file: data.html
+from: markdown+emoji
 ---
 
 ## Current status of ALS data availability
 
 {{< include _data_germany.qmd >}}
 
+---
+
 {{< include _data_europe.qmd >}}
+
+---
 
 {{< include _data_worldwide.qmd >}}
 
