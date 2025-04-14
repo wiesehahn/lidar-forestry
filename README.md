@@ -1,7 +1,5 @@
 ## Lidar for Forestry
 
-This repository is meant as a personal space to gather and organize information about research and applications of lidar data for forestry. 
-
-Information is collected via Github issues and rudimentally organized by Tags. For example its possible to filter recent [`literature` using `ALS` on the topic of `forest structure`](https://github.com/wiesehahn/lidar-forestry/issues?q=label%3AALS+label%3Aliterature+label%3A%22forest+structure%22).
+This repository is meant as a personal space to gather and organize information about research and applications of lidar data for forestry. Scientific literature as well as e.g. data resources and software related to lidar data is collected as issues and organized via labels. In this way it is possible to search for e.g. literature which uses ALS data for biomass estimation ([![](https://img.shields.io/badge/literature-28CF9F) ![](https://img.shields.io/badge/ALS-C5DEF5) ![](https://img.shields.io/badge/biomass-F9D0C4)](https://github.com/wiesehahn/lidar-forestry/issues?q=sort%3Aupdated-desc%20label%3AALS%20label%3Aliterature%20label%3Abiomass)). 
 
 This information is further summarized as a [website](https://wiesehahn.github.io/lidar-forestry/) (updated irregularly from time to time).
