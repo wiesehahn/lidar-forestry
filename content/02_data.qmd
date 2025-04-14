@@ -7,6 +7,13 @@ from: markdown+emoji
 
 ## Current status of ALS data availability
 
+
+
+::: {.callout-note}
+Note that this list is by no means exhaustive and does not claim to be correct. This is especially true for information outside of Germany.  
+A version which is more up-to-date might be available at https://github.com/wiesehahn/lidar-availability.
+:::
+
 {{< include _data_germany.qmd >}}
 
 ---
